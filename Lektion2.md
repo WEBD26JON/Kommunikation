@@ -529,6 +529,42 @@ En sak du själv kan göra för att bidra till ett bättre team är **att aktivt
 - **Stärker förtroendet** – när teammedlemmar ser att deras idéer tas på allvar, växer den gemensamma tilliten.
 - **Skapar en kultur av respekt** – andra börjar efterlikna ditt sätt att kommunicera, vilket sprider positivt samarbetsklimat.
 
+Gruppdynamik och **FIRO**-modellen
+
+När människor börjar arbeta tillsammans utvecklas gruppen stegvis. I början handlar det ofta om att lära känna varandra och hitta sin plats i gruppen. Med tiden utvecklas samarbetet, roller blir tydligare och gruppen kan arbeta mer effektivt mot gemensamma mål.
+
+I det här kursmomentet får du lära dig om **FIRO**-modellen, utvecklad av Will Schutz. Modellen beskriver hur grupper utvecklas genom olika faser och används fortfarande inom ledarskap, projektarbete och organisationsutveckling för att förstå gruppers beteenden och utveckling.
+
+Fundera gärna på hur de olika faserna kan visa sig i grupparbeten under utbildningen och i framtida utvecklingsteam.
+
+---
+
+# 🖼 **FIRO**-modellen
+
+**FIRO**-modellen beskriver tre utvecklingsfaser som många grupper går igenom: Tillhöra, Rollsökning och Samhörighet. Grupper utvecklas inte alltid linjärt – de kan röra sig mellan faserna när nya personer tillkommer eller när gruppen ställs inför nya utmaningar.
+
+🎥 Video: **FIRO**-teorin – Will Schutz
+
+Den här videon ger en introduktion till **FIRO**-teorin och beskriver hur grupper utvecklas genom olika faser. Den fungerar som ett komplement till dagens genomgång och hjälper dig att känna igen olika beteenden som kan uppstå i grupparbete. [https://youtu.be/-sfcofZcBmI?si=XjYfddvbhggSG1oP](https://youtu.be/-sfcofZcBmI?si=XjYfddvbhggSG1oP)
+
+📖 Fördjupning: Teamutveckling och **FIRO** i praktiken
+
+Den här artikeln beskriver hur **FIRO**-modellen används för att förstå grupputveckling i arbetslivet och projekt. Den visar också varför vissa team utvecklas till högpresterande grupper medan andra fastnar i tidigare faser. [https://projektledning.se/teamutveckling-att-skapa-effektiva-team/?utm_source=chatgpt.com](https://projektledning.se/teamutveckling-att-skapa-effektiva-team/?utm_source=chatgpt.com)
+
+💻 Koppling till webbutveckling
+
+Som webbutvecklare kommer du ofta att arbeta i tvärfunktionella team tillsammans med utvecklare, UX-designers, testare och produktägare. Att förstå hur grupper utvecklas gör det lättare att hantera osäkerhet, konflikter och förändringar under projektets gång. Kunskap om gruppdynamik hjälper dig också att bidra till ett tryggare och mer effektivt samarbete.
+
+💡 Tips från läraren
+
+Nästan alla grupper går igenom perioder där samarbetet känns osäkert eller där olika åsikter krockar. Försök att se det som en naturlig del av gruppens utveckling istället för ett tecken på att gruppen fungerar dåligt. Ofta är det just genom att hantera dessa situationer som gruppen utvecklas och blir starkare.
+
+🌱 Frivillig reflektion
+
+Fundera på en grupp du har varit en del av – i skolan, på ett tidigare arbete eller i ett projekt.
+
+Känner du igen någon av **FIRO**-modellens faser? Vad hjälpte gruppen att utvecklas? Vad hade kunnat förbättra samarbetet?
+
 Genom att göra detta till en daglig vana blir du en katalysator för ett mer öppet, engagerat och högpresterande team. 🚀
 
 *(⏱ 11.51s)*
