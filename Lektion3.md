@@ -1,3 +1,55 @@
+# 📖 Kommunikationsstilar och målgruppsanpassning
+
+Välkommen!
+
+Att kommunicera handlar inte bara om vad vi säger, utan också om hur vi säger det och vem vi kommunicerar med. Samma budskap kan behöva uttryckas på olika sätt beroende på mottagaren.
+
+Som webbutvecklare kommer du att samarbeta med många olika personer – exempelvis kunder, projektledare, UX-designers, utvecklare och slutanvändare. Alla har olika behov, erfarenheter och förkunskaper. Att kunna anpassa sitt språk och sin kommunikation är därför en viktig del av ett professionellt arbetssätt.
+
+I det här kursmomentet får du utforska hur kommunikation kan anpassas till olika målgrupper och situationer. Du får också reflektera över varför tydlighet, lyhördhet och aktivt lyssnande är avgörande för ett gott samarbete.
+
+🖼 Visuell modell – Samma budskap, olika mottagare
+
+Samma information kan behöva kommuniceras på olika sätt beroende på vem mottagaren är.
+
+Kunden vill förstå nyttan och affärsvärdet. Utvecklaren behöver tekniska detaljer och krav. Slutanvändaren vill veta hur lösningen fungerar i praktiken. Fundera gärna på hur du själv skulle formulera samma budskap till dessa tre målgrupper.
+
+🎥 Video – The Curse of Knowledge
+
+När vi kan mycket om ett ämne är det lätt att glömma hur det känns att inte kunna. Fenomenet kallas The Curse of Knowledge och kan göra det svårt att förklara saker på ett sätt som andra förstår.
+
+Videon visar varför det är viktigt att utgå från mottagarens kunskapsnivå och hur du kan bli tydligare i din kommunikation. [https://www.youtube.com/watch?v=XQivffNIjQo](https://www.youtube.com/watch?v=XQivffNIjQo)
+
+🎤 **TED** Talk – 10 Ways to Have a Better Conversation (Celeste Headlee)
+
+Bra kommunikation handlar inte bara om att prata – utan också om att lyssna, vara nyfiken och visa respekt för den man kommunicerar med.
+
+I denna **TED** Talk delar journalisten Celeste Headlee med sig av konkreta råd som hjälper dig att skapa bättre samtal både i arbetslivet och privat.
+
+Fundera gärna över:
+
+Vilka råd använder du redan idag? Vilket råd tror du skulle göra störst skillnad i ditt framtida arbete som webbutvecklare? [https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
+
+📖 Rekommenderad läsning
+
+UX Magazine – The Curse of Knowledge in UX Research and Design
+
+När vi utvecklar digitala produkter är det lätt att utgå från vår egen kunskap och glömma att användaren inte har samma förförståelse. Artikeln beskriver hur The Curse of Knowledge kan påverka både kommunikation och användarupplevelse, och ger exempel på hur du kan undvika vanliga fallgropar. [https://uxmag.com/articles/10-types-of-cognitive-bias-to-watch-out-for-in-ux-research-design](https://uxmag.com/articles/10-types-of-cognitive-bias-to-watch-out-for-in-ux-research-design)
+
+💻 Koppling till webbutveckling
+
+Som webbutvecklare behöver du ofta kommunicera samma lösning med olika målgrupper. En kund vill förstå värdet för verksamheten, en utvecklare behöver tekniska detaljer och en slutanvändare vill veta hur produkten fungerar.
+
+Förmågan att anpassa kommunikationen efter mottagaren skapar bättre samarbete, minskar risken för missförstånd och leder ofta till bättre produkter och effektivare projekt.
+
+💡 Tips från läraren
+
+Nästa gång du förklarar något för någon – fundera över vem mottagaren är.
+
+Behöver personen tekniska detaljer eller en enkel förklaring? Vad vet personen redan och vad behöver förklaras?
+
+Att ställa de frågorna är ett första steg mot att bli en bättre kommunikatör.
+
 # Lektion 3: 26-08-31 Kommunikationsstilar och anpassning till mottagare
 
 Saved: 2026-08-31T20:47:22.962264
