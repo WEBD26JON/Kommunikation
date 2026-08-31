@@ -1,5 +1,7 @@
 # Lektion 2: 26-08-27-Gruppdynamik och FIRO-modellen
 
+https://firomodellen.se/
+
 Saved: 2026-08-27T20:19:09.634179
 
 ## ❓ #1
