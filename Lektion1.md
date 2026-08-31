@@ -12,16 +12,19 @@ Målet med dagens lektion är att du ska få en förståelse för hur kommunikat
 ## 🎯 Dagens mål
 
 Efter dagens lektion förväntas du kunna:
-
-beskriva kommunikationens grundläggande delar förklara hur ett budskap påverkas av kanal och mottagare förstå 
+<br>beskriva kommunikationens grundläggande delar förklara hur ett budskap påverkas av kanal och mottagare förstå 
 skillnaden mellan att höra och att lyssna ge exempel på hur aktivt lyssnande kan bidra till bättre samarbete reflektera över 
 kommunikationens betydelse i arbetslivet och i rollen som webbutvecklare
 
 Under dagens lektion arbetar vi med
 
-Kursintroduktion Kursens upplägg och examination Kommunikationens grunder Kommunikationsmodellen Aktivt lyssnande Praktiska övningar och gemensamma diskussioner
+Kursintroduktion<br> Kursens upplägg och examination<br>
+Kommunikationens grunder <br>
+Kommunikationsmodellen <br>
+Aktivt lyssnande <br>
+Praktiska övningar och gemensamma diskussioner
 
-Koppling till kursens lärandemål
+### Koppling till kursens lärandemål
 
 Denna lektion bidrar till att du utvecklar kunskaper och kompetenser inom följande lärandemål:
 
