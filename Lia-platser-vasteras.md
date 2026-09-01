@@ -12,21 +12,21 @@
 
 [https://www.bluescreen.se/](https://www.bluescreen.se/)<br>
 [https://www.bluescreen.se/om-oss/](https://www.bluescreen.se/om-oss/)<br>
-**021**-**421** 21 00 Orgnr **556881**-**2670** Returvägen 1, **721** 37 Västerås
+**021-4212100 Orgnr **556881-2670** Returvägen 1, 72137 Västerås
 
 ## 4. Advania - IT-tjänster i Västerås
 
 [https://www.advania.se/vasteras?utm_source=google&utm_medium=organic&utm_campaign=gmb_vasteras](https://www.advania.se/vasteras?utm_source=google&utm_medium=organic&utm_campaign=gmb_vasteras)
-<br>Vilka IT-tjänster kan Advania i Västerås erbjuda? Vårt kontor i Västerås är er lokala ingång till hela Advanias expertis och tjänsteutbud. Det inkluderar strategisk rådgivning, IT-outsourcing (managed services), molntjänster via plattformar som Microsoft Azure, cybersäkerhet och lösningar för den digitala arbetsplatsen. Kontakt: Badhusgatan 7 A **722** 15 Västerås Tel: +**468**-**546** 70 00
+<br>Vilka IT-tjänster kan Advania i Västerås erbjuda? Vårt kontor i Västerås är er lokala ingång till hela Advanias expertis och tjänsteutbud. Det inkluderar strategisk rådgivning, IT-outsourcing (managed services), molntjänster via plattformar som Microsoft Azure, cybersäkerhet och lösningar för den digitala arbetsplatsen. Kontakt: Badhusgatan 7 A **72215 Västerås Tel: +468-54670 00
 
-## 5. It-smart - [https://www.it-smart.se/](https://www.it-smart.se/](https://www.it-smart.se/)
+## 5. It-smart - [https://www.it-smart.se/](https://www.it-smart.se/)
 
 IT-**SMART** - där verksamheten inte stannar av! Vi är en smart och modern IT-partner i Västerås och Falun. Vår verksamhet bygger på att din inte ska stanna. 
-<br>Västerås Omformargatan 14, **721** 37 Västerås **TELEFON**: **021**-**440** 20 00 E-**POST**: [vasteras@it-smart.se](mailto:vasteras@it-smart.se)
+<br>Västerås Omformargatan 14, **721** 37 Västerås **TELEFON**: 021-440 20 00 E-POST: [vasteras@it-smart.se](mailto:vasteras@it-smart.se)
 
 ## 6. GIBSON - [https://gibon.se/vara-kontor/gibon-vasteras/](https://gibon.se/vara-kontor/gibon-vasteras/)
 
-Som ett ledande IT-företag i staden erbjuder Gibon skräddarsydda lösningar för små och medelstora företag som vill ta nästa steg i sin digitala utveckling. ### Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) **070**-**831** 00 07 [info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) **021** – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 **721** 37 Västerås
+Som ett ledande IT-företag i staden erbjuder Gibon skräddarsydda lösningar för små och medelstora företag som vill ta nästa steg i sin digitala utveckling. ### Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) **070-83100 07 [info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) **021** – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 **721** 37 Västerås
 
 ## 7. Frontit
 
