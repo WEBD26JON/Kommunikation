@@ -12,7 +12,7 @@
 
 [https://www.bluescreen.se/](https://www.bluescreen.se/)<br>
 [https://www.bluescreen.se/om-oss/](https://www.bluescreen.se/om-oss/)<br>
-**021-4212100 Orgnr **556881-2670** Returvägen 1, 72137 Västerås
+**021-4212100 Orgnr 556881-2670 Returvägen 1, 72137 Västerås
 
 ## 4. Advania - IT-tjänster i Västerås
 
@@ -21,27 +21,28 @@
 
 ## 5. It-smart - [https://www.it-smart.se/](https://www.it-smart.se/)
 
-IT-**SMART** - där verksamheten inte stannar av! Vi är en smart och modern IT-partner i Västerås och Falun. Vår verksamhet bygger på att din inte ska stanna. 
-<br>Västerås Omformargatan 14, **721** 37 Västerås **TELEFON**: 021-440 20 00 E-POST: [vasteras@it-smart.se](mailto:vasteras@it-smart.se)
+**IT-SMART** - där verksamheten inte stannar av! Vi är en smart och modern IT-partner i Västerås och Falun. Vår verksamhet bygger på att din inte ska stanna. 
+<br>Västerås Omformargatan 14, 72137 Västerås TELEFON: 021-440 20 00 E-POST: [vasteras@it-smart.se](mailto:vasteras@it-smart.se)
 
 ## 6. GIBSON - [https://gibon.se/vara-kontor/gibon-vasteras/](https://gibon.se/vara-kontor/gibon-vasteras/)
 
-Som ett ledande IT-företag i staden erbjuder Gibon skräddarsydda lösningar för små och medelstora företag som vill ta nästa steg i sin digitala utveckling. ### Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) **070-83100 07 [info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) **021** – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 **721** 37 Västerås
+Som ett ledande IT-företag i staden erbjuder Gibon skräddarsydda lösningar för små och medelstora företag som vill ta nästa steg i sin digitala utveckling. <br>
+Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) 070-83100 07 [info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) 021 – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 72137 Västerås
 
 ## 7. Frontit
 
-[https://[www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/)) Frontit har stor erfarenhet av att driva komplexa digitaliseringsresor. Vi ser till att ni når ert önskade resultat oavsett om den handlar om att skapa effektivare arbetssätt, utveckla er affär eller kunderbjudande. Peter Dahlén Konsult +46 70 **109** 20 51 [peter.dahlen@frontit.se](mailto:peter.dahlen@frontit.se)
+[https://[www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/](https://www.frontit.se/kontakt/vasteras/)) Frontit har stor erfarenhet av att driva komplexa digitaliseringsresor. Vi ser till att ni når ert önskade resultat oavsett om den handlar om att skapa effektivare arbetssätt, utveckla er affär eller kunderbjudande. Peter Dahlén Konsult +46 70109 20 51 [peter.dahlen@frontit.se](mailto:peter.dahlen@frontit.se)
 
 ## 8. CONGERE
 
-Med vår starka sammanhållning och 25 års erfarenhet i branschen levererar våra konsulter kvalificerade tjänster i IT-projektets alla faser. Kontakt: congere ab Adress: Källgatan 13, **722** 11 Västerås Telefon: +46 **707** **669** **604**‬ [info@congere.se](mailto:info@congere.se)
+Med vår starka sammanhållning och 25 års erfarenhet i branschen levererar våra konsulter kvalificerade tjänster i IT-projektets alla faser. Kontakt: congere ab Adress: Källgatan 13, 722 11 Västerås Telefon: +46 707 669 604‬ [info@congere.se](mailto:info@congere.se)
 
 ## 9. AROSITPARTNER
 
-[https://arositpartner.se/kontakt/](https://arositpartner.se/kontakt/) Sedan **2004** har Aros IT-partner stått som en pålitlig IT-leverantör för mindre och medelstora företag i hjärtat av Mellansverige.
+[https://arositpartner.se/kontakt/](https://arositpartner.se/kontakt/) Sedan 2004 har Aros IT-partner stått som en pålitlig IT-leverantör för mindre och medelstora företag i hjärtat av Mellansverige.
 
 ## 10. ACECOM
 
 [https://acecom.se/](https://acecom.se/) Acecom, din IT-partner i centrala Västerås! Våra digitala lösningar är utformade för att förenkla och förbättra människors arbetsliv. Vi strävar efter att skapa hållbar tillväxt för ditt företag, vilket rustar er för framtiden och bidrar till att skapa ett bättre samhälle och en smartare värld. Acercom en del av Aderian som erbjuder ett komplett utbud av säkra och hållbara IT-tjänster som adderar värde och konkurrenskraft till ditt företag. Var inte en främling. Oavsett om du redan känner oss eller bara är nyfiken på hur vi kan hjälpa ditt företag att utvecklas – hör av dig!
 
-Lysgränd 3, Västerås Växel: **021**-**440** 00 90 IT-Support Ring: **021**-**448** 48 00 Mejla: [info@acecom.se](mailto:info@acecom.se)
+Lysgränd 3, Västerås Växel: 021-440 00 90 IT-Support Ring: 021-448 48 00 Mejla: [info@acecom.se](mailto:info@acecom.se)
