@@ -24,14 +24,17 @@ Vilka IT-tjänster kan Advania i Västerås erbjuda? Vårt kontor i Västerås �
 ## 6. [GIBSON](https://gibon.se/vara-kontor/gibon-vasteras/)
 
 Som ett ledande IT-företag i staden erbjuder Gibon skräddarsydda lösningar för små och medelstora företag som vill ta nästa steg i sin digitala utveckling. <br>
-Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) 070-83100 07 [info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) 021 – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 72137 Västerås
+Hans Rothoff [hans.rothoff@gibon.se](mailto:hans.rothoff@gibon.se) 070-83100 07<br> 
+[info.vasteras@gibon.se](mailto:info.vasteras@gibon.se) 021 – 10 42 40 Vi har öppet helgfria vardagar kl 8.00 – 17.00 Tunbytorpsgatan 10 72137 Västerås
 
 ## 7. [Frontit](https://www.frontit.se/kontakt/vasteras/)
 
-Frontit har stor erfarenhet av att driva komplexa digitaliseringsresor. Vi ser till att ni når ert önskade resultat oavsett om den handlar om att skapa effektivare arbetssätt, utveckla er affär eller kunderbjudande. Peter Dahlén Konsult +46 70109 20 51 [peter.dahlen@frontit.se](mailto:peter.dahlen@frontit.se)
+Frontit har stor erfarenhet av att driva komplexa digitaliseringsresor. Vi ser till att ni når ert önskade resultat oavsett om den handlar om att skapa effektivare arbetssätt, utveckla er affär eller kunderbjudande. 
+<br>Peter Dahlén Konsult +46 70109 20 51 [peter.dahlen@frontit.se](mailto:peter.dahlen@frontit.se)
 
 ## 8. [CONGERE](https://www.congere.se)
-Med vår starka sammanhållning och 25 års erfarenhet i branschen levererar [congere.se](https://www.congere.se) konsulter kvalificerade tjänster i IT-projektets alla faser. Kontakt: congere ab Adress: Källgatan 13, 722 11 Västerås Telefon: +46 707 669 604‬ [info@congere.se](mailto:info@congere.se)
+Med vår starka sammanhållning och 25 års erfarenhet i branschen levererar [congere.se](https://www.congere.se) konsulter kvalificerade tjänster i IT-projektets alla faser. 
+<br>Kontakt: congere ab Adress: Källgatan 13, 722 11 Västerås Telefon: +46 707 669 604‬ [info@congere.se](mailto:info@congere.se)
 
 ## 9. [AROSITPARTNER](https://arositpartner.se/kontakt/)
 
