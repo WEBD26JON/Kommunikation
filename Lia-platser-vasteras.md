@@ -9,7 +9,7 @@ Antal anställda: 125 personer<br>
 Verkställande direktör (VD): Per Anders Hjalmar Gustafsson<br>
 Bransch: Datakonsultverksamhet<br>
 
-Ekonomiska nyckeltal (senaste bokslut)<br>
+Ekonomiska nyckeltal (senaste bokslut 2025)<br>
 Omsättning: 210,4 miljoner SEK<br>
 Rörelseresultat (EBIT): -6,1 miljoner SEK<br>
 Årets resultat (vinst/förlust efter skatt): -1,0 miljoner SEK<br>
