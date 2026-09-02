@@ -7,15 +7,14 @@ HiQ Mälardalen har kontor i Västerås, Örebro och Borlänge – städer som t
 [https://www.atea.se/om-atea/vara-kontor/vasteras/](https://www.atea.se/om-atea/vara-kontor/vasteras/)
 <br>Vi är ett it-företag som finns nära dig som kund. Vårt uppdrag är att bygga Sverige med it och vi vill göra det på ett ansvarsfullt sätt som tar hänsyn till sociala aspekter, vår miljö och framtida generationer.
 
-## 3. Bluescreen - Helhetsleverantör inom IT & systemutveckling
+## 3. [Bluescreen](https://www.bluescreen.se/) - Helhetsleverantör inom IT & systemutveckling
 
-[https://www.bluescreen.se/](https://www.bluescreen.se/)<br>
 [https://www.bluescreen.se/om-oss/](https://www.bluescreen.se/om-oss/)<br>
-**021-4212100 Orgnr 556881-2670 Returvägen 1, 72137 Västerås
+021-4212100 Orgnr 556881-2670 Returvägen 1, 72137 Västerås
 
 ## 4. [Advania](https://www.advania.se/vasteras?utm_source=google&utm_medium=organic&utm_campaign=gmb_vasteras) - IT-tjänster i Västerås
 
-<br>Vilka IT-tjänster kan Advania i Västerås erbjuda? Vårt kontor i Västerås är er lokala ingång till hela Advanias expertis och tjänsteutbud. Det inkluderar strategisk rådgivning, IT-outsourcing (managed services), molntjänster via plattformar som Microsoft Azure, cybersäkerhet och lösningar för den digitala arbetsplatsen. Kontakt: Badhusgatan 7 A **72215 Västerås Tel: +468-54670 00
+Vilka IT-tjänster kan Advania i Västerås erbjuda? Vårt kontor i Västerås är er lokala ingång till hela Advanias expertis och tjänsteutbud. Det inkluderar strategisk rådgivning, IT-outsourcing (managed services), molntjänster via plattformar som Microsoft Azure, cybersäkerhet och lösningar för den digitala arbetsplatsen. Kontakt: Badhusgatan 7 A **72215 Västerås Tel: +468-54670 00
 
 ## 5. [It-smart](https://www.it-smart.se/)
 
