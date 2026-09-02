@@ -2,6 +2,20 @@
 
 HiQ Mälardalen har kontor i Västerås, Örebro och Borlänge – städer som tillsammans utgör ett av Sveriges mest spännande teknikkluster. Vi har ledande företag som kunder inom industri, energi, försvar, fordon och offentlig sektor. Med mjukvara i centrum levererar vi smarta, hållbara och innovativa lösningar inom bland annat utveckling, design och projektledning.
 
+FöretagsfaktaJuridiskt namn: HiQ Mälardalen AB<br>
+Organisationsnummer: 556443-8736<br>
+Säte: Västerås<br>
+Antal anställda: 125 personer<br>
+Verkställande direktör (VD): Per Anders Hjalmar Gustafsson<br>
+Bransch: Datakonsultverksamhet<br>
+
+Ekonomiska nyckeltal (senaste bokslut)<br>
+Omsättning: 210,4 miljoner SEK<br>
+Rörelseresultat (EBIT): -6,1 miljoner SEK<br>
+Årets resultat (vinst/förlust efter skatt): -1,0 miljoner SEK<br>
+Vinstmarginal: -2,9 %<br>
+Soliditet: 15,9 %<br>
+
 ## 2. [ATEA](https://www.atea.se/om-atea/) - Digitala lösningar för verksamheter
 
 [https://www.atea.se/om-atea/vara-kontor/vasteras/](https://www.atea.se/om-atea/vara-kontor/vasteras/)
