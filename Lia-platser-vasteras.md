@@ -2,15 +2,14 @@
 
 HiQ Mälardalen har kontor i Västerås, Örebro och Borlänge – städer som tillsammans utgör ett av Sveriges mest spännande teknikkluster. Vi har ledande företag som kunder inom industri, energi, försvar, fordon och offentlig sektor. Med mjukvara i centrum levererar vi smarta, hållbara och innovativa lösningar inom bland annat utveckling, design och projektledning.
 
-### Företagsfakta
-FöretagsfaktaJuridiskt namn: HiQ Mälardalen AB<br>
+Juridiskt namn: HiQ Mälardalen AB<br>
 Organisationsnummer: 556443-8736<br>
 Säte: Västerås<br>
 Antal anställda: 125 personer<br>
 Verkställande direktör (VD): Per Anders Hjalmar Gustafsson<br>
 Bransch: Datakonsultverksamhet<br>
 
-### Ekonomiska nyckeltal (senaste bokslut, 2025)
+**Ekonomiska nyckeltal (senaste bokslut, 2025)** <br>
 Omsättning: 210,4 miljoner SEK<br>
 Rörelseresultat (EBIT): -6,1 miljoner SEK<br>
 Årets resultat (vinst/förlust efter skatt): -1,0 miljoner SEK<br>
@@ -22,27 +21,26 @@ Soliditet: 15,9 %<br>
 [https://www.atea.se/om-atea/vara-kontor/vasteras/](https://www.atea.se/om-atea/vara-kontor/vasteras/)
 <br>Vi är ett it-företag som finns nära dig som kund. Vårt uppdrag är att bygga Sverige med it och vi vill göra det på ett ansvarsfullt sätt som tar hänsyn till sociala aspekter, vår miljö och framtida generationer.
 
-### Företagsfakta
-Juridiskt namn: Atea Sverige AB
-Organisationsnummer: 556448-0282
-Säte: Stockholm
-Antal anställda: 2 691 personer i Sverige
-Antal anställda i Västerås: ca 38 personer, varav 27 konsulter
-Verkställande direktör (VD): Linus Mikael Wallin
-Bransch: Datakonsultverksamhet, dataprogrammering samt IT- och datorhandel
+Juridiskt namn: Atea Sverige AB<br>
+Organisationsnummer: 556448-0282<br>
+Säte: Stockholm<br>
+Antal anställda: 2 691 personer i Sverige<br>
+Antal anställda i Västerås: ca 38 personer, varav 27 konsulter<br>
+Verkställande direktör (VD): Linus Mikael Wallin<br>
+Bransch: Datakonsultverksamhet, dataprogrammering samt IT- och datorhandel<br>
 
 Atea Sverige AB ingår i **Atea Holding AB**. Företaget erbjuder IT-produkter, licenser, IT-infrastruktur, konsulttjänster och driftstjänster. Atea har över 30 kontor i Sverige och cirka 2 700 medarbetare, varav omkring 1 000 är konsulter.
 
-### Ekonomiska nyckeltal (senaste bokslut, 2025)
-Omsättning: 13 533,2 miljoner SEK
-Rörelseresultat (EBIT): 544,9 miljoner SEK
-Årets resultat (vinst efter skatt): 1,6 miljoner SEK
-Vinstmarginal: 4,5 %
-Soliditet: 24,2 %
-
+**Ekonomiska nyckeltal (senaste bokslut, 2025)** <br>
+Omsättning: 13 533,2 miljoner SEK<br>
+Rörelseresultat (EBIT): 544,9 miljoner SEK<br>
+Årets resultat (vinst efter skatt): 1,6 miljoner SEK<br>
+Vinstmarginal: 4,5 %<br>
+Soliditet: 24,2 %<br>
+<br>
 Trots en mycket stor omsättning på över 13,5 miljarder SEK är årets resultat endast 1,6 miljoner SEK. Det innebär att en mycket liten del av omsättningen faktiskt återstår som resultat efter finansnetto och skatt. Skillnaden mellan rörelseresultatet på 544,9 MSEK och årets resultat är därför anmärkningsvärt stor.
 
-***Aktuellt:*** Atea Mälardalen bildas genom att kontoren i Västerås, Eskilstuna och Katrineholm samlas i en gemensam regional organisation. Organisationen har idag cirka 150 medarbetare och planerar att växa till omkring 200 personer de närmaste åren.
+**Aktuellt:** Atea Mälardalen bildas genom att kontoren i Västerås, Eskilstuna och Katrineholm samlas i en gemensam regional organisation. Organisationen har idag cirka 150 medarbetare och planerar att växa till omkring 200 personer de närmaste åren.
 
 *Västerås-kontoret:* Port Anders gata 9, 722 12 Västerås.
 
