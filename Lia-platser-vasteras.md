@@ -1,4 +1,4 @@
-## 1. [HiQ](https://hiq.se/karriar/hiq-malardalen/) - KARRIÄR PÅ HIQ MÄLARDALEN
+## 1. [HiQ](https://hiq.se/karriar/hiq-malardalen/)
 
 HiQ Mälardalen har kontor i Västerås, Örebro och Borlänge – städer som tillsammans utgör ett av Sveriges mest spännande teknikkluster. Vi har ledande företag som kunder inom industri, energi, försvar, fordon och offentlig sektor. Med mjukvara i centrum levererar vi smarta, hållbara och innovativa lösningar inom bland annat utveckling, design och projektledning.
 
