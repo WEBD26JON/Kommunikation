@@ -40,10 +40,11 @@ Rörelseresultat (EBIT): 544,9 miljoner SEK
 Vinstmarginal: 4,5 %
 Soliditet: 24,2 %
 
-*Västerås-kontoret:* Port Anders gata 9, 722 12 Västerås.<br>
 Trots en mycket stor omsättning på över 13,5 miljarder SEK är årets resultat endast 1,6 miljoner SEK. Det innebär att en mycket liten del av omsättningen faktiskt återstår som resultat efter finansnetto och skatt. Skillnaden mellan rörelseresultatet på 544,9 MSEK och årets resultat är därför anmärkningsvärt stor.
 
 ***Aktuellt:*** Atea Mälardalen bildas genom att kontoren i Västerås, Eskilstuna och Katrineholm samlas i en gemensam regional organisation. Organisationen har idag cirka 150 medarbetare och planerar att växa till omkring 200 personer de närmaste åren.
+
+*Västerås-kontoret:* Port Anders gata 9, 722 12 Västerås.
 
 ## 3. [Bluescreen](https://www.bluescreen.se/) - Helhetsleverantör inom IT & systemutveckling
 
