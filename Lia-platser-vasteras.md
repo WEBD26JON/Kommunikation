@@ -19,7 +19,7 @@ Soliditet: 15,9 %<br>
 ## 2. [ATEA](https://www.atea.se/om-atea/) - Digitala lösningar för verksamheter
 
 [https://www.atea.se/om-atea/vara-kontor/vasteras/](https://www.atea.se/om-atea/vara-kontor/vasteras/)
-<br>Vi är ett it-företag som finns nära dig som kund. Vårt uppdrag är att bygga Sverige med it och vi vill göra det på ett ansvarsfullt sätt som tar hänsyn till sociala aspekter, vår miljö och framtida generationer.
+<br>Vi är ett it-företag som finns nära dig som kund. Vårt uppdrag är att bygga Sverige med it.
 
 Juridiskt namn: Atea Sverige AB<br>
 Organisationsnummer: 556448-0282<br>
