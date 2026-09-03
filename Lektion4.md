@@ -1,4 +1,4 @@
-Kommunikation i olika kontexter
+## Kommunikation i olika kontexter
 
 Kommunikation ser olika ut beroende på situation, mottagare och kanal. Som webbutvecklare kommer du att kommunicera i många olika sammanhang – exempelvis i möten, via e-post och chatt, i digitala samarbetsverktyg och i dialog med kunder, kollegor och användare.
 
