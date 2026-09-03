@@ -1,4 +1,4 @@
-# 9 immediate ways to improve communication in the workplace
+# 9 ways to improve communication in the workplace
 
 Saved: 2026-09-03T10:19:12.337174
 
@@ -332,8 +332,8 @@ En sista sak: möjligheterna måste utnyttjas. Det är en sak att erbjuda, en an
 
 Om du verkligen vill ha bra kommunikation på arbetsplatsen måste det finnas en vilja att göra förändringar. Det kommer inte bara "hända". Bättre kommunikation kräver ansträngning och engagemang från alla. Men om det görs på allvar och med rätt inställning kommer resultaten. Gå före med gott exempel, stå för det du säger och belöna mod. Praktisera dessa metoder, inspirera andra och belöna ansträngningen. För dessa taktiska förslag fungerar.
 
-[Contents](#Contents)
-
 Du kommer att bli nöjd med resultaten.
 
 *(⏱ 13.62s)*
+
+[Contents](#Contents)
