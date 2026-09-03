@@ -133,7 +133,7 @@ You’ll be delighted by the results.
 
 # 9 быстрых способов улучшить коммуникацию на рабочем месте
 
-> [!TIP]
+> [!NOTE]
 **Краткое резюме (за 5 секунд)**
 Эффективное общение улучшает взаимопонимание, укрепляет доверие и является ключевым фактором в достижении результатов. Однако то, какой способ улучшения коммуникации вы выберете, играет решающую роль в том, насколько хорошо люди будут понимать вас, ваши идеи и ваше сообщение. Мы собрали девять способов, которые помогут вам улучшить общение на работе прямо сейчас.
 
@@ -241,7 +241,7 @@ Här är översättningen till svenska, Alexander:
 
 **9 omedelbara sätt att förbättra kommunikationen på arbetsplatsen**
 
-> [!TIP]
+> [!NOTE]
 **Sammanfattning på 5 sekunder**
 Bättre kommunikation ökar förståelsen, främjar förtroende och är den avgörande ingrediensen för att få saker gjorda. Men hur du väljer att förbättra din kommunikation gör hela skillnaden för hur folk förstår dig, dina idéer och ditt budskap. Vi har samlat nio sätt som du kan använda för att förbättra kommunikationen på jobbet direkt.
 
