@@ -4,8 +4,8 @@ Saved: 2026-09-03T10:19:12.337174
 
 ## Contents
 - [English](#EN)
-- [Svenska](#SV)
 - [Russian](#RU)
+- [Svenska](#SV)
 
 # EN   
 ## 9 immediate ways to improve communication in the workplace  
