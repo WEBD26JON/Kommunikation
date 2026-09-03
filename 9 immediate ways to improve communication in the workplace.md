@@ -4,7 +4,7 @@ Saved: 2026-09-03T10:19:12.337174
 
 ## ❓ #1   
   
-9 immediate ways to improve communication in the workplace  
+## 9 immediate ways to improve communication in the workplace  
   
 **5-second summary**
 Better communication increases understanding, fosters trust, and stands out as the essential ingredient for getting things done.  
