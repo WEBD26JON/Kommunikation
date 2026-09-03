@@ -2,14 +2,20 @@
 
 Saved: 2026-09-03T10:19:12.337174
 
-## ❓ #1   
-  
+## Contents
+- [English](#EN)
+- [Svenska](#SV)
+- [Russian](#RU)
+
+# EN   
 ## 9 immediate ways to improve communication in the workplace  
   
+> [!TIP]
 **5-second summary**
-Better communication increases understanding, fosters trust, and stands out as the essential ingredient for getting things done.  
+> Better communication increases understanding, fosters trust, and stands out as the essential ingredient for getting things done.  
 But how you choose to improve your communication makes all the difference when helping people understand you, your ideas, and your message.  
-We’ve gathered nine ways that you can improve communication at work right away.  
+We’ve gathered nine ways that you can improve communication at work right away.
+>  
 Better communication at work is the answer. Ok, maybe not THE answer…but it’s close. Fact is, it’s almost always the first step when addressing persistent issues that hold you back, as well as what helps you move from good to great. Better communication increases understanding, fosters trust, and stands out as the essential ingredient for getting things done.  
   
 It’s not a silver bullet – it’s silver buckshot.  
@@ -118,6 +124,7 @@ You’ll be delighted by the results.
 
 ---
 
+# RU
 ### 🤖 #1A gemma4:31b-cloud
 
 Вот перевод текста на русский язык:
@@ -223,6 +230,7 @@ You’ll be delighted by the results.
 
 *(⏱ 13.27s)*
 
+# SV
 ### 🤖 #2A gemma4:31b-cloud
 
 Här är översättningen till svenska, Alexander:
