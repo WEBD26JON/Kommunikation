@@ -6,7 +6,7 @@ Saved: 2026-09-03T10:19:12.337174
   
 9 immediate ways to improve communication in the workplace  
   
-5-second summary  
+**5-second summary**
 Better communication increases understanding, fosters trust, and stands out as the essential ingredient for getting things done.  
 But how you choose to improve your communication makes all the difference when helping people understand you, your ideas, and your message.  
 We’ve gathered nine ways that you can improve communication at work right away.  
@@ -16,21 +16,21 @@ It’s not a silver bullet – it’s silver buckshot.
   
 But how do you improve communication in the workplace? What steps can you take right now? Read on to find out about technology’s role, what practices to start (or recommit to), and how certain approaches for communicating in meetings and in person make all the difference when helping people understand you, your ideas, and your message.  
   
-1. Understand your communication channels  
+### 1. Understand your communication channels  
 If we’re talking workplace communication (and we are) we’ve gotta talk about all the ways we can communicate today. Chat, email, face-to-face, video…the list is long. The cool thing is, each channel has its benefits. But there’s a not-so-cool thing, too: not everyone understands how to use each channel to the best of its (and their) abilities. For example, chat is a boon to working together as a team, especially as a remote and hybrid workplace becomes the norm. It’s a powerful, immediate, and effective communication channel. But there are times when chat isn’t the best way to communicate, like when written text is wonky and gets misunderstood, or getting pinged at a bad (and often off-hours) time.  
   
 And sometimes, it’s just better to talk to someone. Imagine that – one of the best tactical devices for better communication in the workplace is the oldest there is: talking to someone face-to-face and getting a sense of their body language (if that’s not possible, based on geographies, jump on a video chat).  
   
 Different channels should be used for different situations. Get together with your team and communicate the various methods you use. Here’s a great place to start: we’ve got a list of how to choose the right channel and use it to its full advantage. The better you and your team understand your channels, the better your overall communication.  
   
-2. How do you work with me?  
+### 2. How do you work with me?  
 This is a particular favorite of ours, and it comes highly recommended to you. It’s a play from the Atlassian Playbook called My User Manual. Essentially, it’s an operating manual for… YOU. It’s a fun and informative exercise to do, especially as a group, and can serve as an ice-breaking and bonding team experience to boot.  
   
 The My User Manual play helps you connect better with other team members by letting them know how to work best with you. It’s quite eye-opening and informative. Maybe your body language and non-verbal cues mean something different among your co-workers – let them know in your user manual. Maybe eye contact makes someone feel uncomfortable. Maybe someone loves a good rambling chat thread, but someone else gets driven up the wall by it.  
   
 This tip links directly to “seek first to understand.” That is, it’s about learning more before making assumptions. Because more effective communication comes through transparency. With a willingness to share more about yourself and accept what others share about themselves, you’ll understand more (like about diverse communication styles), and you’ll work better together.  
   
-3. Keep communication Open  
+### 3. Keep communication Open  
   
 How to work with me  
 Create a personal “user manual” to share your individual preferences for how you like to collaborate and communicate.  
@@ -41,7 +41,7 @@ Working Open requires effort, though. And not just effort, courage and vulnerabi
   
 Even if these concepts resonate with you, you still might be thinking: I’m not sure how to start. I want good communication, but how do I practice openness and champion open thinking, working, being? It’s not a simple matter, but we got you. There are many things to try and think about, and one place to start is this resource with examples of ways to practice open communication.  
   
-4. Seek first to understand  
+### 4. Seek first to understand  
 Here’s something that blocks better workplace communication: assumptions. If you’ve already decided what someone meant by something they said, especially in a confusing or tense exchange, you’re already coming to the interaction with a POV – your point of view. We’re proud of our values at Atlassian, and that includes an “unofficial” sixth to our core five: seek first to understand. This is something that’s easy to say, but hard to practice. Try to:  
   
 Ask open-ended questions. They will help you understand where someone’s coming from, or what they really meant.  
@@ -49,14 +49,14 @@ Make sure you have all the information. This is essential before giving feedback
 Assume positive intent. This saves you from the negative feelings that can come from being on the defensive.  
 Again, it’s a practice. But it’s a fundamental mindset for better communication in the workplace.  
   
-5. Listen – really listen  
+### 5. Listen – really listen  
 Here’s the thing: we’re all in need of this advice, in our professional and personal lives. The sad reality is people just don’t place enough emphasis on the power of really listening to each other. We spend a lot of time working on being better communicators – which usually means (to most people) being better talkers. Since we’re talking practical and tactical here, let’s say it straight: work on your listening. Really observe the times when you’re not listening – when someone’s talking to you, do you look away in distraction? Look down at your laptop or suddenly pull out your phone? Why?  
   
 Better communication in the workplace starts with better listening – in all your interactions. This is a practice guaranteed to work. And if you’re on a distributed team and interacting with a remote teammate, double down on conveying that you’re listening by staying focused (on video, people can see when you’re multitasking).  
   
 Think of it like this: if better communication is the key to almost everything that you’re working on, better active listening is the first solid step to get there. The benefits of this simple, yet all too challenging, aspect of improved and effective communication can’t be overstated. It’s fundamental. Best of all: it’s immediately available to practice. Did you get that, or were you just thinking about something else?  
   
-6. Focus on feedback  
+### 6. Focus on feedback  
 A conversation about improving communication in the workplace would be sorely incomplete without mentioning feedback. In fact, constructive feedback could top this list. (A pattern is emerging here.)  
   
 How to get feedback? How to give feedback? We have lots of guidance and discussion about feedback, including practical ways to get feedback, and how to give better feedback.  
@@ -69,7 +69,7 @@ Feedback like that is gold.
   
 There are also feedback situations that you’re probably uncertain about because it involves offering criticism up the chain, so to speak. If you’re curious about ways to give a manager feedback, we’ve got you covered there too. In short, feedback is a major currency in working life, and improving how you get and give feedback, and how you engage in things like feedback loops, will undoubtedly improve your overall communication in the workplace.  
   
-7. Take a good, hard look at your meetings  
+### 7. Take a good, hard look at your meetings  
   
 Ritual Reset: Reflect on and re-evaluate your team meetings and processes to create more space for what matters.  
   
@@ -91,7 +91,7 @@ Avoid time-wasting practices like ’round-the-room introductions – unless ess
 For in-person meetings, ask that attendees focus and close laptops and avoid phones.  
 Remember this: meetings are essential to effective communication. In fact, aside from conversations around the office (or via a communication tool – remember, this applies to remote work too) meetings are the main way we actually communicate. In other words, meetings are a constant and consistent opportunity to practice better communication skills.  
   
-8. Use one-on-one meetings  
+### 8. Use one-on-one meetings  
 If the first step is to look at your overall meetings, and the habits and practices you’ve developed around them, step two is to establish a healthy practice of at least one specific type of meeting: the 1-on-1 meeting.  
   
 You want tactical? This is it.  
@@ -100,7 +100,7 @@ You want tactical? This is it.
   
 Set up your 1-on-1 meetings with care. Find a cadence that works (weekly, biweekly, monthly), decide on a length of time that works for both schedules (30 minutes to an hour) and continue to check in about how everything is working and make adjustments as needed. Don’t be afraid to reschedule or cancel if it works better for both parties. These meetings, ideally, are not meant to be mere status updates. But don’t be too rigid about it. If project status issues are top of mind and you need to use some time to discuss them, do it. At the same time, don’t let things that can be communicated at other times rob you of what can often be the only time you have with this colleague. Connect and learn together how to communicate – and work – together better.  
   
-9. Ask me anything  
+### 9. Ask me anything  
 Related to feedback, there’s the idea of having the ability to offer feedback, thoughts, ideas, or critiques to the company at large. Organizations that provide ways – anonymously, when needed – for employees to voice concerns, fears, and burning questions create more trusting and invested company cultures. Consider having all-hands meetings or what we at Atlassian call “town hall” with a time dedicated for Q&A and AMAs (ask-me-anythings). Consider an open Slack channel or another place for submitting questions. And again, make them anonymous if needed so people don’t feel reluctant to be honest, or fear reprisal.  
   
 Providing more and different opportunities for candor, clarification, and camaraderie is not only an essential element of working Open, it opens the door for people to feel more comfortable with bringing their whole selves to work. And you want this. You want your team members to be themselves, because they’ll bring so much more of their talent and passion to everything they do. Which includes communicating with more openness, and less hesitation or worry about something like office politics.  
