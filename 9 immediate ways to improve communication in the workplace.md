@@ -126,6 +126,7 @@ You’ll be delighted by the results.
 
 # RU
 ### 🤖 #1A gemma4:31b-cloud
+[Contents](#Contents)
 
 Вот перевод текста на русский язык:
 
@@ -232,6 +233,7 @@ You’ll be delighted by the results.
 
 # SV
 ### 🤖 #2A gemma4:31b-cloud
+[Contents](#Contents)
 
 Här är översättningen till svenska, Alexander:
 
@@ -327,6 +329,8 @@ Som ledare och chef vill du ha detta. Motsatsen innebär att du inte är informe
 En sista sak: möjligheterna måste utnyttjas. Det är en sak att erbjuda, en annan att faktiskt ta emot erbjudandet. Uppmuntra engagemang. Om ditt team är fast i dålig kommunikation finns det egentligen bara en lösning: börja kommunicera.
 
 Om du verkligen vill ha bra kommunikation på arbetsplatsen måste det finnas en vilja att göra förändringar. Det kommer inte bara "hända". Bättre kommunikation kräver ansträngning och engagemang från alla. Men om det görs på allvar och med rätt inställning kommer resultaten. Gå före med gott exempel, stå för det du säger och belöna mod. Praktisera dessa metoder, inspirera andra och belöna ansträngningen. För dessa taktiska förslag fungerar.
+
+[Contents](#Contents)
 
 Du kommer att bli nöjd med resultaten.
 
