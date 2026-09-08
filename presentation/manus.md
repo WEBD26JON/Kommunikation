@@ -10,15 +10,15 @@ Vi har tagit fram en idé och en enkel fungerande prototyp, alltså en **MVP –
 
 Min målgrupp är företagets **VD och projektledare**.
 
+---
+
+### Slide 01 · ETHOS · NULÄGET · 2 min
+
 Jag ska alltså presentera ett möjligt digitalt stöd som kan minska risken för **fel, avvikelser och viten** i det dagliga arbetet.
 
 Vår huvudidé är enkel:
 
 **Rätt information till rätt person, vid rätt tidpunkt och på rätt arbetsområde.**
-
----
-
-### Slide 01 · ETHOS · NULÄGET · 2 min
 
 Låt oss börja med nuläget.
 
