@@ -19,33 +19,57 @@ const presentation = {
 
     slides: [
         {
-            image: "images/image01.jpg",
-            title: "Slide 1: Rätt information – men inte alltid tillgänglig",
+            eyebrow: "Slide 00 · INLEDNING",
+            title: "Webbaserad lösning för fastighetsbranschen",
+            content: "IT-FÖRETAG → FASTIGHETSBOLAG",
+            footer: "Digital lösning · fungerande MVP"
+        },
+        {
+            eyebrow: "Slide 01 · ETHOS · NULÄGET",
+            title: "Rätt information – men inte alltid tillgänglig",
             caption: "När arbetstempot är högt och flera personer delar på ansvaret blir det lätt att viktig information missas.",
+            image: "images/image01.jpg",
             footer: "Risk för fel → avvikelser → vite",
             fit: "contain"
         },
         {
-            image: "images/example-02.svg",
-            title: "Slide 2",
-            caption: "-",
-            footer: "-",
+            eyebrow: "Slide 02 · LOGOS · INFORMATIONSGLAPPET",
+            title: "När arbetsområdet ändras följer kraven inte med",
+            caption: "Oavsett vem som arbetar på området behövs rätt information till rätt person.",
+            image: "images/image02.jpg",
+            footer: "Informationen finns – men kopplingen saknas.",
             fit: "contain"
         },
         {
-            image: "images/example-03.svg",
-            title: "Slide 3",
-            caption: "",
-            footer: "MVP / exempel",
+            eyebrow: "Slide 03 · LOGOS · LÖSNINGEN",
+            title: "Rätt information till rätt person",
+            caption: "Arbetsuppgift, arbetsområde och rätt instruktioner samlas på samma plats.",
+            image: "images/image03.jpg",
+            footer: "Informationen följer medarbetaren – till rätt plats och rätt uppgift.",
             fit: "contain"
         },
         {
-            image: "images/example-04.svg",
-            title: "Slide 4",
-            caption: "Avslutning och nästa steg.",
-            footer: "",
+            eyebrow: "Slide 04 · PATHOS · VÄRDET",
+            title: "Mindre risk – större trygghet",
+            caption: "När det är stressigt frågar man inte alltid – man gör som man tror är rätt.",
+            image: "images/image04.jpg",
+            footer: "Det är lättare att göra rätt när rätt information finns nära.",
             fit: "contain"
+        },
+        {
+            eyebrow: "Slide 05 · NÄSTA STEG",
+            title: "Ska vi testa det i verkligheten?",
+            caption: "Vi har en fungerande MVP – informationen finns nära när medarbetaren behöver den.",
+            image: "images/image05.jpg",
+            footer: "Vad skulle ni vilja testa först?",
+            fit: "contain"
+        },
+        {
+            eyebrow: "FEEDBACK · REFLEKTION",
+            title: "Såg ni informationsglappet?",
+            content: "Var uppstod det?",
+            footer: "Informationen fanns – men kopplingen saknades."
         }
+
     ]
 };
-
