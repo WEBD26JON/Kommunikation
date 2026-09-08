@@ -1,4 +1,4 @@
-## Ämne och målgrupp
+## Ämne, målgrupp, huvudbudskap
 
 ### Ämne:
 En digital lösning för att koppla arbetsuppgifter och arbetsområden till rätt krav och instruktioner.
