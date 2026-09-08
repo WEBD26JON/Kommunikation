@@ -10,15 +10,7 @@ VD och projektledare för ett fastighetsbolag med ett femårigt avtal med kommun
 
 Vi vill minska risken för fel, avvikelser och viten genom att göra rätt information tillgänglig för rätt person vid rätt tidpunkt och på rätt arbetsområde.
 
-### Hur vill jag börja?
-
-Börja med en kort verklighetsbeskrivning ur ledningens perspektiv: flera arbetsområden, rörlig personal, olika krav och högt arbetstempo.
-
-Presentera sedan ett konkret exempel på hur information kan missas i dagens arbetsflöde.
-
-### Hur vill jag avsluta?
-
-Visa att lösningen inte behöver börja som ett stort IT-projekt.
+[Scenario](https://github.com/WEBD26JON/Kommunikation/blob/main/presentation/SCENARIO.md)
 
 ### Nästa steg är att testa MVP:n i ett verkligt arbetsflöde och utvärdera om den faktiskt minskar risken för fel och avvikelser.
 
