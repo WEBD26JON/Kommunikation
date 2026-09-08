@@ -30,3 +30,6 @@
 > **I den här presentationen spelar jag rollen som projektledare och affärsutvecklare på ett IT-företag. Vi har tagit fram en idé och en enkel fungerande prototyp (MVP = Minimum Viable Product) för ett fastighetsbolag som har ett femårigt avtal med kommunen.**
 > 
 > **Min målgrupp är företagets VD och projektledare. Jag ska alltså presentera ett möjligt digitalt stöd som kan minska risken för fel, avvikelser och viten i det dagliga arbetet.”**
+
+[Presentation](https://webd26jon.github.io/Kommunikation/)
+
