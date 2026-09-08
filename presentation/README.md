@@ -18,6 +18,7 @@ Vi vill minska risken för fel, avvikelser och viten genom att göra rätt infor
 - **AVSLUTNING / FEEDBACK · 30-60 sek**
 
 [Scenario](https://github.com/WEBD26JON/Kommunikation/blob/main/presentation/SCENARIO.md)
+[Manus](https://github.com/WEBD26JON/Kommunikation/blob/main/presentation/manus.md)
 
 ### Nästa steg är att testa MVP:n i ett verkligt arbetsflöde och utvärdera om den faktiskt minskar risken för fel och avvikelser.
 
