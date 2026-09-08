@@ -21,7 +21,7 @@ const presentation = {
         {
             eyebrow: "Slide 00 · INLEDNING",
             title: "Webbaserad lösning för fastighetsbranschen",
-            content: "IT-FÖRETAG → FASTIGHETSBOLAG",
+            content: "TUC-IT → FASTIGHETSBOLAG",
             footer: "Digital lösning · fungerande MVP"
         },
         {
