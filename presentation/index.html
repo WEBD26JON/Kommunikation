@@ -10,12 +10,14 @@
     <main id="presentation" class="presentation">
         <section class="slide">
             <div class="slide-header">
+                <div id="slide-eyebrow"></div>
                 <h1 id="slide-title"></h1>
                 <p id="slide-caption"></p>
             </div>
 
             <div class="slide-image-container">
                 <img id="slide-image" src="" alt="">
+                <div id="slide-content" hidden></div>
             </div>
 
             <div class="slide-footer">
@@ -24,6 +26,7 @@
         </section>
 
         <div class="controls">
+            <nav id="slide-navigation" aria-label="Slide navigation"></nav>
             <button id="previous" type="button" aria-label="Föregående slide">←</button>
             <span id="slide-counter">1 / 1</span>
             <button id="next" type="button" aria-label="Nästa slide">→</button>
