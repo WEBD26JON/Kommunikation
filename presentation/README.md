@@ -35,4 +35,31 @@ Vi vill minska risken för fel, avvikelser och viten genom att göra rätt infor
 - betoning av huvudbudskap
 - övergångar mellan slides
 - avslutning och call to action.
+
+  ---
   
+# Analys
+
+## 1 — ETHOS · Nuläget
+
+Rätt information – men inte alltid tillgänglig
+
+Så här fungerar verksamheten idag.
+
+## 2 — LOGOS · Informationsgapet
+
+Var uppstår problemet?
+
+Två informationsflöden finns, men de är inte kopplade till varandra.
+
+## 3 — LOGOS · Lösningen
+
+Rätt information till rätt person
+
+Koppla arbetsuppgift + arbetsområde + specifika krav.
+
+## 4 — PATHOS · Värdet
+
+Vad förändras för företaget?
+
+Medarbetaren får bättre förutsättningar att göra rätt → färre fel → färre avvikelser → minskad risk för vite.
