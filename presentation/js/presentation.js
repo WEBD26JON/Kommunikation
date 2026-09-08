@@ -60,6 +60,7 @@
         elements.image.hidden = !hasImage;
         elements.content.hidden = !hasContent;
 
+        
         if (hasImage) {
             elements.image.src = slide.image;
             elements.image.alt =
@@ -69,6 +70,9 @@
                 "cover",
                 slide.fit === "cover"
             );
+        } else {
+            elements.image.removeAttribute("src");
+            elements.image.alt = "";
         }
 
         if (hasContent) {
