@@ -19,13 +19,13 @@ const presentation = {
 
     slides: [
         {
-            eyebrow: "Slide 00 · INLEDNING",
+            eyebrow: "Slide 00 · INLEDNING · 45 sek",
             title: "Webbaserad lösning för fastighetsbranschen",
             content: "TUC-IT → FASTIGHETSBOLAG",
             footer: "Digital lösning · fungerande MVP"
         },
         {
-            eyebrow: "Slide 01 · ETHOS · NULÄGET",
+            eyebrow: "Slide 01 · ETHOS · NULÄGET · 2 min",
             title: "Rätt information – men inte alltid tillgänglig",
             caption: "När arbetstempot är högt och flera personer delar på ansvaret blir det lätt att viktig information missas.",
             image: "images/image01.jpg",
@@ -33,7 +33,7 @@ const presentation = {
             fit: "contain"
         },
         {
-            eyebrow: "Slide 02 · LOGOS · INFORMATIONSGLAPPET",
+            eyebrow: "Slide 02 · LOGOS · INFORMATIONSGLAPPET · 1 min",
             title: "När arbetsområdet ändras följer kraven inte med",
             caption: "Oavsett vem som arbetar på området behövs rätt information till rätt person.",
             image: "images/image02.jpg",
@@ -41,7 +41,7 @@ const presentation = {
             fit: "contain"
         },
         {
-            eyebrow: "Slide 03 · LOGOS · LÖSNINGEN",
+            eyebrow: "Slide 03 · LOGOS · LÖSNINGEN · 1 min",
             title: "Rätt information till rätt person",
             caption: "Arbetsuppgift, arbetsområde och rätt instruktioner samlas på samma plats.",
             image: "images/image03.jpg",
@@ -49,7 +49,7 @@ const presentation = {
             fit: "contain"
         },
         {
-            eyebrow: "Slide 04 · PATHOS · VÄRDET",
+            eyebrow: "Slide 04 · PATHOS · VÄRDET · 1 min",
             title: "Mindre risk – större trygghet",
             caption: "När det är stressigt frågar man inte alltid – man gör som man tror är rätt.",
             image: "images/image04.jpg",
@@ -57,7 +57,7 @@ const presentation = {
             fit: "contain"
         },
         {
-            eyebrow: "Slide 05 · NÄSTA STEG",
+            eyebrow: "Slide 05 · NÄSTA STEG · 1 min",
             title: "Ska vi testa det i verkligheten?",
             caption: "Vi har en fungerande MVP – informationen finns nära när medarbetaren behöver den.",
             image: "images/image05.jpg",
@@ -65,7 +65,7 @@ const presentation = {
             fit: "contain"
         },
         {
-            eyebrow: "FEEDBACK · REFLEKTION",
+            eyebrow: "FEEDBACK · REFLEKTION · 45 sek",
             title: "Såg ni informationsglappet?",
             content: "Var uppstod det?",
             footer: "Informationen fanns – men kopplingen saknades."
