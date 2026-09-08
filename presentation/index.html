@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentation Engine</title>
+    <link rel="stylesheet" href="css/presentation.css">
+</head>
+<body>
+    <main id="presentation" class="presentation">
+        <section class="slide">
+            <div class="slide-header">
+                <h1 id="slide-title"></h1>
+                <p id="slide-caption"></p>
+            </div>
+
+            <div class="slide-image-container">
+                <img id="slide-image" src="" alt="">
+            </div>
+
+            <div class="slide-footer">
+                <span id="slide-footer"></span>
+            </div>
+        </section>
+
+        <div class="controls">
+            <button id="previous" type="button" aria-label="Föregående slide">←</button>
+            <span id="slide-counter">1 / 1</span>
+            <button id="next" type="button" aria-label="Nästa slide">→</button>
+        </div>
+
+        <div id="timer" class="timer">00:00</div>
+    </main>
+
+    <script src="js/slides.js"></script>
+    <script src="js/presentation.js"></script>
+</body>
+</html>
