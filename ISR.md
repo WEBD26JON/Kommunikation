@@ -19,7 +19,7 @@ Beskriva olika tekniker för retorik och presentationer, och vilken effekt de ha
 **5. Skriftlig kommunikation**
 Använda skriftlig kommunikation med anpassat budskap utifrån situation och mottagare.
 
-**6. Muntlig presentation
+**6. Muntlig presentation**
 Utföra muntlig presentation med anpassad kommunikationsstil och budskap utifrån situation och mottagare i en tänkt affärsmässig situation.
 
 **7. Presentationsverktyg**
