@@ -4,7 +4,7 @@
 
 Innan jag börjar vill jag bara förklara situationen.
 
-I den här presentationen spelar jag rollen som **projektledare och affärsutvecklare på ett IT-företag, TUC-IT**.
+Föreställ er att jag arbetar på ett IT-företag som heter **TUC-IT**, som **projektledare och affärsutvecklare**. Mitt uppdrag är att presentera en digital lösning för ett fastighetsbolag som vi vill sälja in. 
 
 Vi har tagit fram en idé och en enkel fungerande prototyp, alltså en **MVP – Minimum Viable Product**, för ett fastighetsbolag som har ett femårigt avtal med kommunen.
 
