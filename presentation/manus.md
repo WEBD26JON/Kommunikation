@@ -2,7 +2,7 @@
 
 ### Slide 00 · INLEDNING · 45 sek
 
-Innan jag börjar vill jag bara förklara situationen.
+Innan jag börjar vill jag bara förklara situationen. Det här är alltså ett fiktivt scenario.
 
 Föreställ er att jag arbetar på ett IT-företag som heter **TUC-IT**, som **projektledare och affärsutvecklare**. Mitt uppdrag är att presentera en digital lösning för ett fastighetsbolag som vi vill sälja in. 
 
