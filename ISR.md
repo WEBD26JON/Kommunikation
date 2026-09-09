@@ -2,7 +2,35 @@
 Betygsgrundande uppgifter:
 - Inlämningsuppgift: - IG - VG, Slutar 11 sep
 
-## Syfte
+  Kursens lärandemål:
+
+**1. Gruppdynamik / FIRO**
+Beskriva grunderna i de olika faserna och processer i en grupp, och hur de kan användas för att utveckla en grupp enligt t.ex. FIRO-modellen.
+
+**2. Kommunikationsstilar och kundmöten**
+Beskriva olika kommunikationsstilar och identifiera hur olika stilar påverkar utfallet vid kundmöten, för att genomföra en lönsam affär inom branschen.
+
+**3. Anpassning av kommunikation**
+Redogöra för hur kommunikationen kan anpassas utifrån situation, målgrupp, kulturer och kommunikationskanaler.
+
+**4. Retorik och presentationsteknik**
+Beskriva olika tekniker för retorik och presentationer, och vilken effekt de har vid användning.
+
+**5. Skriftlig kommunikation**
+Använda skriftlig kommunikation med anpassat budskap utifrån situation och mottagare.
+
+**6. Muntlig presentation
+Utföra muntlig presentation med anpassad kommunikationsstil och budskap utifrån situation och mottagare i en tänkt affärsmässig situation.
+
+**7. Presentationsverktyg**
+Använda presentationsverktyg som ett hjälpmedel i muntlig kommunikation för att förstärka budskapet.
+
+**8. Reflektion och kundbemötande**
+Självständigt reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt.
+
+---
+
+# Syfte
 
 Den individuella skriftliga rapporten är kursens skriftliga examination.
 
