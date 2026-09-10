@@ -58,7 +58,7 @@ I den här situationen skulle jag visa två skisser bredvid varandra i stället 
 
 Teamet bör först tillsammans sammanfatta kundens feedback och skilja på vad som faktiskt sades och vad var och en har tolkat. Därefter bör projektledaren ställa konkreta frågor till kunden: vad menas med ”premium”, vilka delar upplevs som för tekniska, vad är viktigast, och är fredag ett absolut datum?
 
-Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fixa startsidan?” kunde meddelandet vara: ”Anna tar designförslaget, Johan kontrollerar innehållet och jag följer upp med kunden vad de menar med ’premium’ och om fredag är ett krav.” På så sätt framgår både uppgift och ansvar.
+Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fixa startsidan?” kunde meddelandet vara: ”Fredrik tar designförslaget, Ninis kontrollerar innehållet och jag följer upp med kunden vad de menar med ’premium’ och om fredag är ett krav.” På så sätt framgår både uppgift och ansvar.
 
 ### Exempel på skriftlig återkoppling till kunden
 
@@ -75,7 +75,7 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi lanserar startsidan på fredag och tar resten som nästa steg.
 >
 >Vänliga hälsningar
->Alexander G., webbutvecklare
+>Alexander G., projektledare / webbutvecklare
 
 **Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
 
@@ -85,11 +85,11 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 
 Det jag tar med mig från caset är att många problem som ser tekniska ut egentligen uppstår tidigare, i kommunikationen. Ingen i caset gör fel rent hantverksmässigt, och ändå går timmar förlorade. Som utvecklare är det lätt att tänka att kunddialogen är projektledarens ansvar, men den som utför arbetet behöver också förstå uppdraget innan hen börjar.
 
-Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag börjar bygga. En fråga som ”menar du att…” tar trettio sekunder och är den billigaste försäkringen mot att bygga fel sak. Det andra är att översätta i stället för att förenkla nedlåtande. Kunden är expert på sin verksamhet även om hen inte kan HTML. Det tredje är att vara tydlig med tid, eftersom ett vagt ”vi försöker” är bekvämt i stunden men dyrt senare.
+Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag börjar bygga. En fråga som ”menar du att…” tar trettio sekunder och är den billigaste försäkringen mot att bygga fel sak. Det andra är att översätta i stället för att förenkla nedlåtande. Kunden är expert på sin verksamhet även om hen inte kan HTML/CSS/JS. Det tredje är att vara tydlig med tid, eftersom ett vagt ”vi försöker” är bekvämt i stunden men dyrt senare.
 
-Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund. Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
+Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund (fastighetsbolag). Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
 
-Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Den som säger ja till allt verkar tillmötesgående i ett möte men opålitlig efter tre. Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
+Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen.  Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
 
 ## Källor
 
