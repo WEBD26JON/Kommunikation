@@ -1,18 +1,4 @@
 
-DESKTOP-JKC2TRT, Connected
-/
-Claude finished the response
-ISRtask.md
-ISRtask.md
-MD
-relevantinfo.md
-relevantinfo.md
-MD
-Привет, в файле ISR-task.md - задание.
-
-В качестве исходного контекста тебе необходимо полагаться на информацию, которую я собрал в relevant-Info.md 
-Нужно сделать набросок согласно заданию, так , что бы это соответствовало требованиям по пунктам 1-5 и 8
-
 ## 1. Gruppdynamik / FIRO
 Beskriva grunderna i de olika faserna och processer i en grupp, och hur de kan användas för att utveckla en grupp enligt t.ex. FIRO-modellen.
 
@@ -37,42 +23,10 @@ Använda presentationsverktyg som ett hjälpmedel i muntlig kommunikation för a
 ## 8. Reflektion och kundbemötande
 Självständigt reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt.
 
-
-Created a file, ran a command, shared files
-Created a file, ran a command, shared files
-Набросок готов — ~2300 слов, что укладывается в 2–4 страницы без титульного листа и списка литературы.
-
-Покрытие целей обучения:
-
-1 (FIRO) — раздел 2.3: команда в фазе rollsökning, аргументация почему, плюс замечание о нелинейности развития под давлением дедлайна.
-2 (стили коммуникации) — раздел 2.4: пассивный / агрессивный / ассертивный стиль и их влияние на исход встречи и на прибыльность сделки.
-3 (адаптация) — 2.4 и 3.1: получатель без технических знаний, выбор канала (чат / встреча / почта / телефон), curse of knowledge.
-4 (риторика) — обоснование письма: ethos/pathos/logos, структура «что — почему — когда», ссылка на Duarte.
-5 (письменная коммуникация) — само письмо клиенту плюс мотивировка формулировок.
-8 (рефлексия) — раздел 4, самый весомый для VG.
-Слабые места, которые стоит исправить перед сдачей:
-
-Раздел 4 написан обобщённо. Для VG требуется «самостоятельность и высокое качество» — там нужны твои конкретные примеры (групповые работы в WEBD26, опыт в Västmanlands Fastighetsskötsel, собственные проекты). Сейчас это шаблон, преподаватель это увидит.
-Риторика (цель 4) покрыта тонко — только внутри мотивировки письма. Если хочешь надёжности, добавь 3–5 предложений в раздел 2.4 или отдельным подразделом про этос/патос/логос и структуру презентации.
-Ссылки на курсовой материал даны по названиям файлов и URL; проверь, какой формат цитирования требует LearnPoint.
-Имя клиента «Anna» вымышлено — в кейсе имени нет. Либо убери, либо оставь как явное допущение.
-Дата сдачи в задании — 11 сентября, то есть завтра.
-
-
-Isr rapport utkast
-Document · MD 
-
-
-Write a message…
-
-
-
-
-Isr rapport utkast · MD
 # Kommunikation i ett webbprojekt – analys av caset "Lanseringen närmar sig"
  
 Individuell skriftlig rapport, kursen Kommunikation (15 YHp)
-Alexander Gabrielsten, WEBD26
+Alexander G, WEBD26
 Datum: 2026-09-10
  
 ---
