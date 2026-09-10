@@ -78,7 +78,9 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >[Exempel 2]
 >[Exempel 3]
 >
->Fundera gärna på vilket exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
+>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
+>
+>Vi kan ha den valda startsidan klar på onsdag. Därefter kan vi fortsätta med eventuella justeringar av resten av webbplatsen som nästa steg.
 >
 >Vänliga hälsningar
 >Alexander G.<br>
