@@ -103,7 +103,7 @@ Slutligen är aktivt lyssnande underskattat. Julian Treasure och Celeste Headlee
 > Hör av dig om något är oklart, så tar vi det på telefon.
 >
 > Vänliga hälsningar
-> Alexander Gabrielsten, webbutvecklare
+> Alexander G., webbutvecklare
  
 **Motivering av utformningen.** Meddelandet inleds med en kvittens av kundens budskap, vilket sluter den feedbackloop som saknades under mötet och gör eventuella feltolkningar synliga innan arbetet påbörjas. Språket är avskalat från fackuttryck – jag skriver "mer luft" och "färre element", inte "whitespace" eller "hero-sektion" – eftersom mottagaren saknar teknisk förkunskap och risken för the curse of knowledge är hög. Strukturen följer kundens tre frågor i den ordning kunden själv ställde dem: vad, varför och när. Punktlistan gör innehållet skanningsbart, vilket passar e-post som kanal. Tonen är assertiv snarare än undfallande: jag lovar inte hela leveransen till fredag, men jag säger inte heller nej, utan presenterar ett realistiskt alternativ och lämnar beslutet till kunden. Retoriskt bygger jag **ethos** genom att motivera förslagen fackmässigt, **logos** genom att koppla tidsangivelser till konkret innehåll, och en försiktig **pathos** genom att formulera värdet ur kundens perspektiv. Avslutningen erbjuder en rikare kanal – telefon – för det som inte lämpar sig i skrift.
  
