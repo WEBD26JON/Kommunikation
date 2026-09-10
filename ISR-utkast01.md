@@ -19,18 +19,17 @@ Den skriftliga rapporten examinerar följande lärandemål:
 - **OBS! 8**..Reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt. 
 
 
-# Kommunikation i ett webbprojekt – analys av caset "Lanseringen närmar sig"
+# Kommunikation i ett webbprojekt. Analys av caset "Lanseringen närmar sig"
 
- 
 ---
  
-## 1. Inledning – kommunikationsproblemen i caset
+## 1. Inledning. Kommunikationsproblemen i caset
  
 Caset beskriver ett litet, tvärfunktionellt webbteam några veckor före lansering. Under ett digitalt kundmöte ger kunden en feedback som är positiv men vag, och efter mötet visar det sig att teamet har tolkat samma budskap på minst tre olika sätt. Kort därefter uppstår dubbelarbete när två personer börjar arbeta med startsidan efter ett meddelande i Teams.
  
 Jag har valt att analysera tre kommunikationsproblem:
  
-1. **Kundens budskap är otydligt och kvitteras aldrig.** Orden "för teknisk", "modern, enkel och mer premium" är värderande men saknar innehåll som går att omsätta i arbete. Ingen i teamet ställer följdfrågor under mötet, och ingen sammanfattar vad man kommit överens om. Också tidsangivelsen "helst till fredag" lämnas obehandlad – det framgår inte om fredag är ett krav eller en önskan.
+1. **Kundens budskap är otydligt och kvitteras aldrig.** Orden "för teknisk", "modern, enkel och mer premium" är värderande men saknar innehåll som går att omsätta i arbete. Ingen i teamet ställer följdfrågor under mötet, och ingen sammanfattar vad man kommit överens om. Också tidsangivelsen "helst till fredag" lämnas obehandlad. Det framgår inte om fredag är ett krav eller en önskan.
 2. **Ansvaret i teamets interna kommunikation är oklart.** Projektledarens meddelande "Vi behöver lösa kundens feedback idag. Kan någon fixa startsidan?" saknar mottagare, avgränsning och definition av vad "löst" innebär. Konsekvensen blir konkret: två personer arbetar parallellt med samma sida.
 3. **Återkopplingen till kunden riskerar att anpassas fel.** Kunden har begränsad teknisk kunskap och vill veta *vad*, *varför* och *när*. Ett team som är vant vid teknisk vokabulär tenderar att svara i termer av komponenter, typografi och sprintar – vilket inte besvarar kundens faktiska frågor.
 Konsekvenserna är inte enbart interna. Dubbelarbete kostar timmar som teamet inte har så nära lansering, feltolkade önskemål riskerar att leda till en leverans kunden inte känner igen sig i, och otydlig kommunikation om tidsplanen skadar förtroendet – vilket i förlängningen påverkar affären och möjligheten till fortsatt uppdrag.
