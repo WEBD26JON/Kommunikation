@@ -1,27 +1,23 @@
 
-## 1. Gruppdynamik / FIRO
-Beskriva grunderna i de olika faserna och processer i en grupp, och hur de kan användas för att utveckla en grupp enligt t.ex. FIRO-modellen.
+## Content
+1. Gruppdynamik / FIRO
+2. Kommunikationsstilar och kundmöten
+3. Anpassning av kommunikation
+4. Retorik och presentationsteknik
+5. Skriftlig kommunikation
+6. Reflektion
 
-## 2. Kommunikationsstilar och kundmöten
-Beskriva olika kommunikationsstilar och identifiera hur olika stilar påverkar utfallet vid kundmöten, för att genomföra en lönsam affär inom branschen.
+## Uppdrag och lärandemål
 
-## 3. Anpassning av kommunikation
-Redogöra för hur kommunikationen kan anpassas utifrån situation, målgrupp, kulturer och kommunikationskanaler.
+Den skriftliga rapporten examinerar följande lärandemål:
 
-## 4. Retorik och presentationsteknik
-Beskriva olika tekniker för retorik och presentationer, och vilken effekt de har vid användning.
+- **1**..Beskriv grunderna i de olika faserna och processerna i en grupp, och hur de kan användas för att utveckla en grupp, exempelvis enligt FIRO-modellen.
+- **2**..Beskriv olika kommunikationsstilar och identifiera hur olika stilar påverkar utfallet vid kundmöten.
+- **3.**..Redogör för hur kommunikationen kan anpassas utifrån situation, målgrupp, kulturer och kommunikationskanaler.
+- **4.**..Beskriv olika tekniker för retorik och presentationer och vilken effekt de har vid användning.
+- **5**..Använd skriftlig kommunikation med anpassat budskap utifrån situation och mottagare.
+- **OBS! 8**..Reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt. 
 
-## 5. Skriftlig kommunikation
-Använda skriftlig kommunikation med anpassat budskap utifrån situation och mottagare.
-
-## 6. Muntlig presentation
-Utföra muntlig presentation med anpassad kommunikationsstil och budskap utifrån situation och mottagare i en tänkt affärsmässig situation.
-
-## 7. Presentationsverktyg
-Använda presentationsverktyg som ett hjälpmedel i muntlig kommunikation för att förstärka budskapet.
-
-## 8. Reflektion och kundbemötande
-Självständigt reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt.
 
 # Kommunikation i ett webbprojekt – analys av caset "Lanseringen närmar sig"
  
