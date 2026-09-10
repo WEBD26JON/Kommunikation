@@ -18,7 +18,7 @@ Konsekvenserna påverkar både effektiviteten i teamet, arbetsfördelningen och 
 
 Shannon och Weavers kommunikationsmodell kan användas för att förstå varför kundens budskap får olika betydelser. Enligt modellen påverkas kommunikationen av sändare, mottagare, kanal, återkoppling och olika former av brus. (Kursmaterial, Lektion 1)
 
-Här är kunden sändare och teamet mottagare. Budskapet är inte tillräckligt konkret, och orden ”modern” och ”premium” betyder olika saker för olika personer. För en UX-designer kan ”premium” handla om visuellt uttryck, medan en utvecklare tänker mer på funktion eller teknisk kvalitet. Detta är ett slags brus. Problemet är inte att någon uttryckt sig fel, utan att mottagarna själva fyller i det som inte har sagts.
+Här är kunden sändare och teamet mottagare. Budskapet är inte tillräckligt konkret, och orden ”modern” och ”premium” betyder olika saker för olika personer. För en UX-designer kan ”premium” handla om visuellt uttryck, medan en utvecklare tänker mer på funktion eller teknisk kvalitet. Detta är ett slags brus. Problemet är inte att någon uttryckt sig fel, utan att mottagarna själva fyller i det som inte har sagts. Aktivt lyssnande innebär att ställa följdfrågor och sammanfatta det andra har sagt med egna ord, i stället för att direkt börja formulera en lösning. (Kursmaterial, Lektion 1)
 
 Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor.
 
@@ -98,4 +98,4 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 - Kursmaterial, Lektion 3: kommunikationsstilar, assertiv kommunikation, samma budskap till olika mottagare.
 - Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*.
 - Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., *The Secret Structure of Great Talks*, TED.
-- Treasure, J., *5 Ways to Listen Better*, TED.
+- Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande. Treasure, J., 5 Ways to Listen Better, TED. (https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better)
