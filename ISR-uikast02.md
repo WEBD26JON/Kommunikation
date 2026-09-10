@@ -187,7 +187,7 @@ Nedan är ett förslag på hur jag själv skulle formulera den skriftliga återk
 > Hör av dig om något är oklart, så tar vi det på telefon.
 > 
 > Vänliga hälsningar
-> Alexander Gabrielsten, webbutvecklare
+> Alexander G., webbutvecklare
 
 **Motivering av utformningen.** Meddelandet inleds med en kvittens av kundens budskap, vilket sluter den feedbackloop som saknades under mötet och gör eventuella feltolkningar synliga innan arbetet påbörjas. Språket är avskalat från fackuttryck: jag skriver "mer luft" och "färre element", inte "whitespace" eller "hero-sektion", eftersom mottagaren saknar teknisk förkunskap och risken för the curse of knowledge är hög. Strukturen följer kundens tre frågor i den ordning kunden själv ställde dem, alltså vad, varför och när. Punktlistan gör innehållet skanningsbart, vilket passar e-post som kanal, och mejl är rätt kanal här eftersom kunden behöver kunna läsa i lugn och ro och återkomma till innehållet.
 
