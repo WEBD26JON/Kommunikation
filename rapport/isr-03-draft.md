@@ -96,6 +96,7 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande.
 - Kursmaterial, Lektion 2: FIRO-modellen (Will Schutz).
 - Kursmaterial, Lektion 3: kommunikationsstilar, assertiv kommunikation, samma budskap till olika mottagare.
-- Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*.
-- Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., *The Secret Structure of Great Talks*, TED.
+- Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*. (https://slack.com/blog/collaboration/pick-communication-channels-at-work)
+- Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., The secret structure of great talks, TEDxEast 2011. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
+- Kursmaterial, Lektion 5: Storie, J., 7 Storytelling Tips for Better Business Presentations, Duarte, 2026. https://www.duarte.com/blog/tips-for-crafting-a-storytelling-presentation/
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande. Treasure, J., 5 Ways to Listen Better, TED. (https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better)
