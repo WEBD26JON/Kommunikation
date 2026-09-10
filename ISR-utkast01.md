@@ -20,10 +20,7 @@ Den skriftliga rapporten examinerar följande lärandemål:
 
 
 # Kommunikation i ett webbprojekt – analys av caset "Lanseringen närmar sig"
- 
-Individuell skriftlig rapport, kursen Kommunikation (15 YHp)
-Alexander G, WEBD26
-Datum: 2026-09-10
+
  
 ---
  
