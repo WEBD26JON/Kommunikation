@@ -1,4 +1,4 @@
-# Individuell skriftlig rapport – Kommunikation i ett webbutvecklingsprojekt
+# Individuell skriftlig rapport. Kommunikation i ett webbutvecklingsprojekt
 
 ## Inledning
 
@@ -28,7 +28,7 @@ FIRO-modellen beskriver tre faser i en grupps utveckling: Tillhöra, Rollsöknin
 
 Jag tolkar teamet i caset som att det åtminstone delvis befinner sig i rollsökningsfasen, eller tillfälligt hamnar tillbaka där på grund av tidspressen. Medlemmarna har ingen gemensam bild av vem som ansvarar för vad. Det tydligaste exemplet är meddelandet ”Kan någon fixa startsidan?”, där två personer uppfattar uppgiften som riktad till sig.
 
-Modellen visar att problemet inte är tekniskt utan handlar om roller. Om ansvar och mandat görs tydliga blir det lättare för gruppen att arbeta mot samma mål och att utvecklas mot samhörighetsfasen.
+Modellen visar att problemet inte är tekniskt utan handlar om roller. Om ansvar och mandat *(rätten att fatta beslut och agera för gruppens räkning)* görs tydliga blir det lättare för gruppen att arbeta mot samma mål och att utvecklas mot samhörighetsfasen. Mandatfrågan hör direkt ihop med rollsökningsfasen, som enligt Schutz handlar om kontroll och inflytande.
 
 ### Kommunikationsstil och kundmöten
 
@@ -64,18 +64,18 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 
 **Ämne: Sammanfattning av era önskemål och nästa steg**
 
-Hej,
-
-Tack för mötet. Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.
-
-Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
-
-Vi gör därför tre förändringar på startsidan: förenklar texten, ger sidan mer luft med färre element och större bilder, och lyfter fram era referenser högre upp. Vi föreslår detta eftersom ett premiumintryck oftast beror på enkelhet och tydlighet, inte på fler funktioner. Skicka gärna två eller tre webbplatser med den känsla ni vill ha, så slipper vi gissa.
-
-Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi lanserar startsidan på fredag och tar resten som nästa steg.
-
-Vänliga hälsningar
-Alexander G., webbutvecklare
+>Hej,
+>
+>Tack för mötet. Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.
+>
+>Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
+>
+>Vi gör därför tre förändringar på startsidan: förenklar texten, ger sidan mer luft med färre element och större bilder, och lyfter fram era referenser högre upp. Vi föreslår detta eftersom ett premiumintryck oftast beror på enkelhet och tydlighet, inte på fler funktioner. Skicka gärna två eller tre webbplatser med den känsla ni vill ha, så slipper vi gissa.
+>
+>Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi lanserar startsidan på fredag och tar resten som nästa steg.
+>
+>Vänliga hälsningar
+>Alexander G., webbutvecklare
 
 **Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
 
