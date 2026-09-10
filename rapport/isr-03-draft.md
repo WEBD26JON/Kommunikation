@@ -70,12 +70,19 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >
 >Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
 >
->Vi gör därför tre förändringar på startsidan: förenklar texten, ger sidan mer luft med färre element och större bilder, och lyfter fram era referenser högre upp. Vi föreslår detta eftersom vi bedömer att enkelhet och tydlighet passar bättre med det premium intryck ni beskriver. För att vi snabbt ska landa rätt tar vi fram tre förslag på hur startsidan kan se ut. Välj gärna det som ligger närmast er bild, så bygger vi vidare på det. Om inget av dem stämmer räcker det att ni pekar ut vad som saknas.
+>På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan. Ni hittar dem här: [länk till exemplen].
 >
->Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi prioriterar startsidan till fredag och tar resterande delar som nästa steg.
+>Vi rekommenderar att ni särskilt tittar på följande tre exempel:
 >
->Vänliga hälsningar<br>
->Alexander G., projektledare / webbutvecklare
+>[Exempel 1]
+>[Exempel 2]
+>[Exempel 3]
+>
+>Fundera gärna på vilket exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
+>
+>Vänliga hälsningar
+>Alexander G.<br>
+>Projektledare / webbutvecklare
 
 **Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
 
