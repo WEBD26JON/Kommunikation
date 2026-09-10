@@ -52,7 +52,7 @@ Den skriftliga rapporten examinerar följande lärandemål:
 
 5. Använda skriftlig kommunikation med anpassat budskap utifrån situation och mottagare.
 
-6. Självständigt reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt.
+8. Självständigt reflektera kring kommunikationens betydelse för kundbemötande på ett affärsmannamässigt sätt.
 
 ## Case – Lanseringen närmar sig
 
@@ -80,7 +80,7 @@ Du ska skriva en individuell rapport där du analyserar kommunikationssituatione
 
 För att göra upplägget tydligt ska rapporten innehålla fyra delar:
 
-1. Inledning – identifiera kommunikationsproblemen
+**1. Inledning – identifiera kommunikationsproblemen**
 
 Börja med att kort presentera situationen och identifiera de viktigaste kommunikativa utmaningarna som du ser.
 
@@ -92,7 +92,7 @@ Fundera exempelvis på:
 - Vilka konsekvenser kan kommunikationen få för teamet, kunden eller projektet?
   Du behöver inte **återberätta hela caset**. Fokusera på de kommunikationsproblem som du vill analysera vidare.
 
-2. Analys – använd det du har lärt dig under kursen
+**2. Analys – använd det du har lärt dig under kursen**
 
 Detta är rapportens huvuddel.
 
@@ -121,7 +121,7 @@ Därefter kan du koppla situationen till en relevant teori, modell eller ett beg
 
 Det viktiga är alltså inte hur många teorier du nämner, utan hur du använder dem i ditt resonemang.
 
-3. Förbättringsförslag – hur kan kommunikationen bli bättre?
+**3. Förbättringsförslag – hur kan kommunikationen bli bättre?**
 
 Utifrån din analys ska du beskriva hur teamet skulle kunna agera för att förbättra kommunikationen och minska risken för fortsatta missförstånd.
 
@@ -137,7 +137,7 @@ vad teamet kommer att göra varför ni gör det hur ni hanterar kundens önskem�
 
 Tänk exempelvis på mottagare, språk, ton och tydlighet.
 
-4. Reflektion – din framtida yrkesroll
+**4. Reflektion – din framtida yrkesroll**
 
 Avsluta rapporten med en egen reflektion kring vad du tar med dig från situationen och kursen.
 
