@@ -1,7 +1,7 @@
 # Kommunikation i ett webbprojekt. Analys av caset "Lanseringen närmar sig"
 
 Individuell skriftlig rapport, kursen Kommunikation (15 YHp)
-Alexander Gabrielsten, WEBD26
+
 
 ---
 
