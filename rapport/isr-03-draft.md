@@ -70,11 +70,11 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >
 >Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
 >
->Vi gör därför tre förändringar på startsidan: förenklar texten, ger sidan mer luft med färre element och större bilder, och lyfter fram era referenser högre upp. Vi föreslår detta eftersom ett premiumintryck oftast beror på enkelhet och tydlighet, inte på fler funktioner. För att vi snabbt ska landa rätt tar vi fram tre förslag på hur startsidan kan se ut. Välj gärna det som ligger närmast er bild, så bygger vi vidare på det. Om inget av dem stämmer räcker det att ni pekar ut vad som saknas.
+>Vi gör därför tre förändringar på startsidan: förenklar texten, ger sidan mer luft med färre element och större bilder, och lyfter fram era referenser högre upp. Vi föreslår detta eftersom vi bedömer att enkelhet och tydlighet passar bättre med det premium intryck ni beskriver. För att vi snabbt ska landa rätt tar vi fram tre förslag på hur startsidan kan se ut. Välj gärna det som ligger närmast er bild, så bygger vi vidare på det. Om inget av dem stämmer räcker det att ni pekar ut vad som saknas.
 >
->Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi lanserar startsidan på fredag och tar resten som nästa steg.
+>Startsidan hinner vi ha klar till fredag, och vi visar ett förslag på torsdag. Bilder och färger på hela webbplatsen behöver ungefär en vecka till. Vi föreslår därför att vi prioriterar startsidan till fredag och tar resterande delar som nästa steg.
 >
->Vänliga hälsningar
+>Vänliga hälsningar<br>
 >Alexander G., projektledare / webbutvecklare
 
 **Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
@@ -95,7 +95,7 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande.
 - Kursmaterial, Lektion 2: FIRO-modellen (Will Schutz).
-- Kursmaterial, Lektion 3: kommunikationsstilar, assertiv kommunikation, samma budskap till olika mottagare.
+- Kursmaterial, Lektion 3: kommunikationsstiler, assertiv kommunikation, samma budskap till olika mottagare.
 - Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*. (https://slack.com/blog/collaboration/pick-communication-channels-at-work)
 - Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., The secret structure of great talks, TEDxEast 2011. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
 - Kursmaterial, Lektion 5: Storie, J., 7 Storytelling Tips for Better Business Presentations, Duarte, 2026. https://www.duarte.com/blog/tips-for-crafting-a-storytelling-presentation/
