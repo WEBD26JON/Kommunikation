@@ -1,9 +1,9 @@
 <div align="center">
 
-# Individuell skriftlig rapport  
-## Kommunikation i ett webbutvecklingsprojekt
-
-<br>
+# Kommunikation i ett webbutvecklingsprojek
+<br><br><br><br>
+**Individuell skriftlig rapport**
+<br><br><br><br>
 
 Kurs: Kommunikation (15 YHp)  
 Alexander Gabrielsten, Grupp1-WEBD26JON  
@@ -11,7 +11,7 @@ Datum: 2026-09-11
 
 </div>
 
-<div style="break-after: page;"></div>
+<div style="page-break-after: always;"></div>
 
 ## Inledning
 
@@ -34,6 +34,8 @@ Shannon och Weavers kommunikationsmodell kan användas för att förstå varför
 Här är kunden sändare och teamet mottagare. Budskapet är inte tillräckligt konkret, och orden ”modern” och ”premium” betyder olika saker för olika personer. För en UX-designer kan ”premium” handla om visuellt uttryck, medan en utvecklare tänker mer på funktion eller teknisk kvalitet. Detta är ett slags brus. Problemet är inte att någon uttryckt sig fel, utan att mottagarna själva fyller i det som inte har sagts. Aktivt lyssnande innebär att ställa följdfrågor och sammanfatta det andra har sagt med egna ord, i stället för att direkt börja formulera en lösning. (Kursmaterial, Lektion 1)
 
 Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor.
+
+<div style="break-after: page;"></div>
 
 ### FIRO och otydliga roller
 
@@ -73,7 +75,15 @@ Teamet bör först tillsammans sammanfatta kundens feedback och skilja på vad s
 
 Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fixa startsidan?” kunde meddelandet vara: ”Fredrik tar designförslaget, Ninis kontrollerar innehållet och jag följer upp med kunden vad de menar med ’premium’ och om fredag är ett krav.” På så sätt framgår både uppgift och ansvar.
 
-<div style="break-after: page;"></div>
+## Reflektion
+
+Det jag tar med mig från caset är att många problem som ser tekniska ut egentligen uppstår tidigare, i kommunikationen. Ingen i caset gör fel rent hantverksmässigt, och ändå går timmar förlorade. Som utvecklare är det lätt att tänka att kunddialogen är projektledarens ansvar, men den som utför arbetet behöver också förstå uppdraget innan hen börjar.
+
+Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag börjar bygga. En fråga som ”menar du att…” tar trettio sekunder och är den billigaste försäkringen mot att bygga fel sak. Det andra är att översätta i stället för att förenkla nedlåtande. Kunden är expert på sin verksamhet även om hen inte kan HTML/CSS/JS. Det tredje är att vara tydlig med tid, eftersom ett vagt ”vi försöker” är bekvämt i stunden men dyrt senare.
+
+Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund (fastighetsbolag). Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
+
+Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen.  Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
 
 ### Skriftlig återkoppling till kunden
 
@@ -92,18 +102,6 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 <br>**Återkoppling:** Sammanfattningen i början visar om teamet har förstått kundens önskemål korrekt och minskar risken för olika tolkningar.
 <br>**Begränsat urval:** Kunden får två tydliga alternativ i stället för många val, vilket gör det enklare för kunden att fatta ett beslut.
 <br>**Assertiv kommunikation:** Vi presenterar ett konkret arbetssätt och en realistisk tidsplan utan att lova att hela webbplatsen blir färdig till fredag.<br>**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag. 
-
-<div style="break-after: page;"></div>
-
-## Reflektion
-
-Det jag tar med mig från caset är att många problem som ser tekniska ut egentligen uppstår tidigare, i kommunikationen. Ingen i caset gör fel rent hantverksmässigt, och ändå går timmar förlorade. Som utvecklare är det lätt att tänka att kunddialogen är projektledarens ansvar, men den som utför arbetet behöver också förstå uppdraget innan hen börjar.
-
-Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag börjar bygga. En fråga som ”menar du att…” tar trettio sekunder och är den billigaste försäkringen mot att bygga fel sak. Det andra är att översätta i stället för att förenkla nedlåtande. Kunden är expert på sin verksamhet även om hen inte kan HTML/CSS/JS. Det tredje är att vara tydlig med tid, eftersom ett vagt ”vi försöker” är bekvämt i stunden men dyrt senare.
-
-Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund (fastighetsbolag). Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
-
-Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen.  Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
 
 <div style="break-after: page;"></div>
 
