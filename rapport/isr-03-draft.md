@@ -59,11 +59,11 @@ Stilen påverkar därför affären direkt. Det som avgör om ett kundmöte leder
 
 Samma budskap behöver uttryckas olika beroende på mottagare. Kunden vill förstå nyttan och vad som förändras, medan utvecklaren behöver tekniska detaljer. (Kursmaterial, Lektion 3)
 
-Kunden i caset har begränsad teknisk kunskap. Kommunikationen bör därför inte handla om komponenter eller kod, utan om vad resultatet innebär. En risk är att den som kan mycket om ett område glömmer hur det är att inte kunna det, och förutsätter kunskap som mottagaren saknar.
+Kunden i caset har begränsad teknisk kunskap. Kommunikationen bör därför fokusera på vad resultatet innebär för kunden, snarare än på komponenter och kod. En risk är att den som kan mycket om ett område glömmer hur det är att inte kunna det och därför förutsätter kunskap som mottagaren saknar.
 
-Kunden och teamet tillhör dessutom olika yrkeskulturer med olika fackspråk. Artikeln betonar också att olika kommunikationskanaler passar för olika situationer. Chatt är effektivt för snabb samordning, men skriftliga meddelanden kan lätt misstolkas när situationen är komplex eller otydlig (Atlassian, 2022). Det förklarar varför projektledarens korta Teams-meddelande inte räckte för att skapa en gemensam förståelse. För teamet är en sida bra när den är snabb och underhållbar, för kunden när den ger rätt intryck. En stor del av arbetet i ett kundprojekt är att översätta mellan dessa två sätt att se på kvalitet.
+Kunden och teamet tillhör dessutom olika yrkeskulturer med olika fackspråk. För teamet är en sida bra när den är snabb och underhållbar, medan kunden främst bedömer om den ger rätt intryck. En stor del av arbetet i ett kundprojekt är därför att översätta mellan dessa två sätt att se på kvalitet.
 
-Även kanalen spelar roll. Enkla frågor kan lösas i Teams, medan komplexa frågor kräver ett möte. (Kursmaterial, Lektion 4) Projektledarens meddelande är inte fel kanal i sig, men det är fel typ av meddelande för en uppgift som fortfarande är otydlig och saknar ansvarig.
+Även kommunikationskanalen spelar roll. Enkla frågor kan lösas i Teams, medan komplexa eller otydliga frågor ofta kräver ett möte. (Kursmaterial, Lektion 4) Atlassian betonar också att olika kanaler passar för olika situationer och att skriftliga meddelanden kan misstolkas när informationen är komplex eller otydlig (Atlassian, 2022). Projektledarens Teams-meddelande var därför inte fel kanal i sig, men det var för kort för en uppgift som saknade gemensam förståelse och tydligt ansvar.
 
 ### Retorik och presentationsteknik
 
@@ -114,9 +114,7 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande.
 - Kursmaterial, Lektion 2: FIRO-modellen (Will Schutz).
 - Kursmaterial, Lektion 3: kommunikationsstiler, assertiv kommunikation, samma budskap till olika mottagare.
-- Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*. https://slack.com/blog/collaboration/pick-communication-channels-at-work
 - Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., The secret structure of great talks, TEDxEast 2011. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
-- - Atlassian. (2022, 13 augusti). *9 immediate ways to improve communication in the workplace*. https://www.atlassian.com/blog/teamwork/how-you-can-improve-communication-in-the-workplace
+- Atlassian. (2022, 13 augusti). *9 immediate ways to improve communication in the workplace*. https://www.atlassian.com/blog/teamwork/how-you-can-improve-communication-in-the-workplace
 - Kursmaterial, Lektion 5: Storie, J., 7 Storytelling Tips for Better Business Presentations, Duarte, 2026. https://www.duarte.com/blog/tips-for-crafting-a-storytelling-presentation/
-- Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande. Treasure, J., 5 Ways to Listen Better, TED. https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better
 - Treasure, J. *5 ways to listen better* [Video]. TED. https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better
