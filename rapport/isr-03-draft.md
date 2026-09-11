@@ -1,3 +1,7 @@
+Individuell skriftlig rapport, kursen Kommunikation (15 YHp)<br>
+Alexander Gabrielsten, Grupp1-WEBD26JON<br>
+Datum: 2026-09-11 23:59
+
 # Individuell skriftlig rapport. Kommunikation i ett webbutvecklingsprojekt
 
 ## Inledning
@@ -70,23 +74,21 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >
 >Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
 >
->På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan. Ni hittar dem här: [länk till exemplen].
+>På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan. Ni hittar dem här: [länk].
 >
->Vi rekommenderar att ni särskilt tittar på följande tre exempel:
+>Vi rekommenderar att ni särskilt tittar på följande två:
 >
->[Exempel 1],
->[Exempel 2],
->[Exempel 3]
+>[Exempel 1], [Exempel 2]
 >
 >Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
 >
->Vi kan ha den valda startsidan klar på onsdag. Därefter kan vi fortsätta med eventuella justeringar av resten av webbplatsen som nästa steg.
+>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.
 >
->Vänliga hälsningar
+>Vänliga hälsningar<br>
 >Alexander G.<br>
->Projektledare / webbutvecklare
+>Projektledare / webbutvecklare<br>
 
-**Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
+**Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Kunden får endast två tydliga alternativ, vilket gör valet enklare. Tonen är assertiv: vi presenterar ett konkret arbetssätt och en realistisk tidsplan, men lovar inte att börja arbeta innan kunden har valt ett alternativ. Genom formuleringen ”om ni återkommer” blir nästa steg tydligt för kunden, samtidigt som kunden får möjlighet att påverka vilka justeringar som ska prioriteras inför fredag.
 
 ## Reflektion
 
