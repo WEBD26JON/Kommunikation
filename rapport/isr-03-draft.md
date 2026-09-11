@@ -88,13 +88,13 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 ### Skriftlig återkoppling till kunden
 
 >**Ämne: Sammanfattning av era önskemål och nästa steg**<br><br>
->Hej,<br><br>Tack för mötet. Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.<br>
+>Hej, tack för mötet! Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.<br>
 <br>Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.<br>
 <br>På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan.
 ><br> Ni hittar dem här: [länk].
 <br>Vi rekommenderar att ni särskilt tittar på följande två:<br><br>[Exempel 1], [Exempel 2]<br>
 <br>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.<br><br>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.<br>
-<br>Vänliga hälsningar, Alexander G.<br>Projektledare / webbutvecklare 
+<br>Vänliga hälsningar, Alexander Gabrielsten [Företagsnamn] – webbutvecklare
 
 **Motivering** 
 <br>Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.
@@ -110,7 +110,7 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande.
 - Kursmaterial, Lektion 2: FIRO-modellen (Will Schutz).
 - Kursmaterial, Lektion 3: kommunikationsstiler, assertiv kommunikation, samma budskap till olika mottagare.
-- Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*. (https://slack.com/blog/collaboration/pick-communication-channels-at-work)
+- Kursmaterial, Lektion 4: kommunikationskanaler. Slack, *Choosing the Right Communication Channel at Work*; Atlassian, *How You Can Improve Communication in the Workplace*. https://slack.com/blog/collaboration/pick-communication-channels-at-work
 - Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., The secret structure of great talks, TEDxEast 2011. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
 - Kursmaterial, Lektion 5: Storie, J., 7 Storytelling Tips for Better Business Presentations, Duarte, 2026. https://www.duarte.com/blog/tips-for-crafting-a-storytelling-presentation/
-- Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande. Treasure, J., 5 Ways to Listen Better, TED. (https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better)
+- Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande. Treasure, J., 5 Ways to Listen Better, TED. https://www.juliantreasure.com//ted-talk/5-ways-to-listen-better
