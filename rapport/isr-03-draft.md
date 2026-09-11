@@ -15,15 +15,15 @@ Datum: 2026-09-11
 
 ## Inledning
 
-I caset befinner sig ett mindre webbutvecklingsteam nära lansering av en ny webbplats. Under ett kundmöte säger kunden att webbplatsen känns för teknisk och att den ska kännas mer modern, enkel och premium. Kunden vill dessutom helst att den ska vara klar till fredag.
+I caset befinner sig ett mindre webbutvecklingsteam nära lansering av en ny webbplats. Under ett kundmöte säger kunden att webbplatsen känns för teknisk och ska kännas mer modern, enkel och premium. Kunden vill dessutom helst att den ska vara klar till fredag.
 
-Det största kommunikationsproblemet är enligt min bedömning att viktiga delar av kundens budskap är öppna för tolkning. Orden ”modern”, ”enkel” och framför allt ”premium” beskriver en önskad känsla, men säger inte vad teamet konkret ska förändra. Även ”helst till fredag” är otydligt, eftersom det inte framgår om fredag är ett krav eller en önskan.
+Det största kommunikationsproblemet är att flera delar av kundens budskap är öppna för tolkning. Orden ”modern”, ”enkel” och framför allt ”premium” beskriver en önskad känsla, men säger inte vad teamet konkret ska förändra. Även ”helst till fredag” är otydligt, eftersom det inte framgår om fredag är ett krav eller en önskan.
 
-Problemet förstärks av att teamet efter mötet tolkar budskapet på olika sätt. En person vill ändra designen, en annan uppfattar det som ett innehållsproblem och en tredje vill först ta reda på vad kunden menar. Teamet har alltså inte skapat en gemensam förståelse.
+Efter mötet tolkar teamet budskapet på olika sätt. En person vill ändra designen, en annan uppfattar det som ett innehållsproblem och en tredje vill först ta reda på vad kunden menar. Teamet har därför inte skapat en gemensam förståelse.
 
-Även den interna kommunikationen skapar problem. När projektledaren skriver ”Vi behöver lösa kundens feedback idag. Kan någon fixa startsidan?” framgår det inte vem som ansvarar för uppgiften eller vad som ska prioriteras. Resultatet blir att två personer arbetar med samma sak.
+Den interna kommunikationen förstärker problemet. När projektledaren skriver ”Vi behöver lösa kundens feedback idag. Kan någon fixa startsidan?” framgår det varken vem som ansvarar för uppgiften eller vad som ska prioriteras. Resultatet blir att två personer arbetar med samma sak.
 
-Konsekvenserna påverkar både effektiviteten i teamet, arbetsfördelningen och kundrelationen. Om teamet gör förändringar utan att först säkerställa vad kunden vill ha finns risk för onödigt arbete och ytterligare missförstånd.
+Konsekvenserna är onödigt arbete, otydlig arbetsfördelning och risk för en försämrad kundrelation. Om teamet gör förändringar utan att först säkerställa vad kunden menar finns risk för ytterligare missförstånd.
 
 ## Analys
 
@@ -100,8 +100,11 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 <br>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.<br><br>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.<br>
 <br>Vänliga hälsningar, Alexander Gabrielsten [Företagsnamn] – webbutvecklare
 
-**Motivering** 
-<br>Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.
+<div style="break-after: page;"></div>
+
+### Motivering
+
+Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.
 <br>**Struktur:** Meddelandet besvarar kundens tre centrala frågor: vad vi har uppfattat, hur vi föreslår att gå vidare och när nästa steg kan ske.
 <br>**Återkoppling:** Sammanfattningen i början visar om teamet har förstått kundens önskemål korrekt och minskar risken för olika tolkningar.
 <br>**Begränsat urval:** Kunden får två tydliga alternativ i stället för många val, vilket gör det enklare för kunden att fatta ett beslut.
