@@ -4,6 +4,8 @@ Datum: 2026-09-11 23:59
 
 # Individuell skriftlig rapport. Kommunikation i ett webbutvecklingsprojekt
 
+<div style="break-after: page;"></div>
+
 ## Inledning
 
 I caset befinner sig ett mindre webbutvecklingsteam nära lansering av en ny webbplats. Under ett kundmöte säger kunden att webbplatsen känns för teknisk och att den ska kännas mer modern, enkel och premium. Kunden vill dessutom helst att den ska vara klar till fredag.
@@ -15,6 +17,8 @@ Problemet förstärks av att teamet efter mötet tolkar budskapet på olika sät
 Även den interna kommunikationen skapar problem. När projektledaren skriver ”Vi behöver lösa kundens feedback idag. Kan någon fixa startsidan?” framgår det inte vem som ansvarar för uppgiften eller vad som ska prioriteras. Resultatet blir att två personer arbetar med samma sak.
 
 Konsekvenserna påverkar både effektiviteten i teamet, arbetsfördelningen och kundrelationen. Om teamet gör förändringar utan att först säkerställa vad kunden vill ha finns risk för onödigt arbete och ytterligare missförstånd.
+
+<div style="break-after: page;"></div>
 
 ## Analys
 
@@ -64,31 +68,15 @@ Teamet bör först tillsammans sammanfatta kundens feedback och skilja på vad s
 
 Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fixa startsidan?” kunde meddelandet vara: ”Fredrik tar designförslaget, Ninis kontrollerar innehållet och jag följer upp med kunden vad de menar med ’premium’ och om fredag är ett krav.” På så sätt framgår både uppgift och ansvar.
 
-### Exempel på skriftlig återkoppling till kunden
+<div style="break-after: page;"></div>
 
-**Ämne: Sammanfattning av era önskemål och nästa steg**
+### Skriftlig återkoppling till kunden
 
->Hej,
->
->Tack för mötet. Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.
->
->Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.
->
->På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan. Ni hittar dem här: [länk].
->
->Vi rekommenderar att ni särskilt tittar på följande två:
->
->[Exempel 1], [Exempel 2]
->
->Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
->
->Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.
->
->Vänliga hälsningar<br>
->Alexander G.<br>
->Projektledare / webbutvecklare<br>
+| **Meddelande** | **Motivering** |
+| --- | --- |
+| **Ämne: Sammanfattning av era önskemål och nästa steg**<br><br>Hej,<br><br>Tack för mötet. Jag sammanfattar hur vi uppfattade era önskemål, så att vi arbetar åt rätt håll.<br><br>Vi uppfattade tre saker: startsidan känns för teknisk, den ska upplevas som enklare och mer exklusiv, och ni vill helst ha den klar till fredag.<br><br>På vår webbplats finns redan flera färdiga exempel på startsidor som ni kan välja mellan. Ni hittar dem här: [länk].<br><br>Vi rekommenderar att ni särskilt tittar på följande två:<br><br>[Exempel 1], [Exempel 2]<br><br>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.<br><br>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.<br><br>Vänliga hälsningar<br>Alexander G.<br>Projektledare / webbutvecklare | Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.<br><br>**Struktur:** Meddelandet besvarar kundens tre centrala frågor: vad vi har uppfattat, hur vi föreslår att gå vidare och när nästa steg kan ske.<br><br>**Återkoppling:** Sammanfattningen i början visar om teamet har förstått kundens önskemål korrekt och minskar risken för olika tolkningar.<br><br>**Begränsat urval:** Kunden får två tydliga alternativ i stället för många val, vilket gör beslutet enklare och minskar risken att kunden blir överväldigad.<br><br>**Assertiv kommunikation:** Vi presenterar ett konkret arbetssätt och en realistisk tidsplan utan att lova att hela webbplatsen blir färdig till fredag.<br><br>**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag. |
 
-**Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Kunden får endast två tydliga alternativ, vilket gör valet enklare. Tonen är assertiv: vi presenterar ett konkret arbetssätt och en realistisk tidsplan, men lovar inte att börja arbeta innan kunden har valt ett alternativ. Genom formuleringen ”om ni återkommer” blir nästa steg tydligt för kunden, samtidigt som kunden får möjlighet att påverka vilka justeringar som ska prioriteras inför fredag.
+<div style="break-after: page;"></div>
 
 ## Reflektion
 
@@ -99,6 +87,8 @@ Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag b�
 Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund (fastighetsbolag). Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
 
 Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen.  Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
+
+<div style="break-after: page;"></div>
 
 ## Källor
 
