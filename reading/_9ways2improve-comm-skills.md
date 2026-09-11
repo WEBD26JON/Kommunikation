@@ -2,6 +2,8 @@
 
 Saved: 2026-09-03T10:19:12.337174
 
+[Atlassian original:](https://www.atlassian.com/blog/teamwork/how-you-can-improve-communication-in-the-workplace)
+
 ## Contents
 - [English](#EN)
 - [Russian](#RU)
