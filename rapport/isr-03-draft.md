@@ -105,10 +105,16 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 ### Motivering
 
 Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.
-<br>**Struktur:** Meddelandet besvarar kundens tre centrala frågor: vad vi har uppfattat, hur vi föreslår att gå vidare och när nästa steg kan ske.
-<br>**Återkoppling:** Sammanfattningen i början visar om teamet har förstått kundens önskemål korrekt och minskar risken för olika tolkningar.
-<br>**Begränsat urval:** Kunden får två tydliga alternativ i stället för många val, vilket gör det enklare för kunden att fatta ett beslut.
-<br>**Assertiv kommunikation:** Vi presenterar ett konkret arbetssätt och en realistisk tidsplan utan att lova att hela webbplatsen blir färdig till fredag.<br>**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag. 
+
+**Struktur:** Meddelandet besvarar kundens tre centrala frågor: vad vi har uppfattat, hur vi föreslår att gå vidare och när nästa steg kan ske.
+
+**Återkoppling:** Sammanfattningen i början visar om teamet har förstått kundens önskemål korrekt och minskar risken för olika tolkningar.
+
+**Begränsat urval:** Kunden får två tydliga alternativ i stället för många val, vilket gör det enklare för kunden att fatta ett beslut.
+
+**Assertiv kommunikation:** Vi presenterar ett konkret arbetssätt och en realistisk tidsplan utan att lova att hela webbplatsen blir färdig till fredag.
+
+**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag. 
 
 <div style="break-after: page;"></div>
 
