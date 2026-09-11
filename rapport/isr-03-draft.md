@@ -1,8 +1,19 @@
-Individuell skriftlig rapport, kursen Kommunikation (15 YHp)<br>
+>
+>
+>
+>
+>
+>
+>
+# Individuell skriftlig rapport. Kommunikation i ett webbutvecklingsprojekt
+>
+>
+>
+>
+>
+Kurs: Kommunikation (15 YHp)<br>
 Alexander Gabrielsten, Grupp1-WEBD26JON<br>
 Datum: 2026-09-11 23:59
-
-# Individuell skriftlig rapport. Kommunikation i ett webbutvecklingsprojekt
 
 <div style="break-after: page;"></div>
 
@@ -17,8 +28,6 @@ Problemet förstärks av att teamet efter mötet tolkar budskapet på olika sät
 Även den interna kommunikationen skapar problem. När projektledaren skriver ”Vi behöver lösa kundens feedback idag. Kan någon fixa startsidan?” framgår det inte vem som ansvarar för uppgiften eller vad som ska prioriteras. Resultatet blir att två personer arbetar med samma sak.
 
 Konsekvenserna påverkar både effektiviteten i teamet, arbetsfördelningen och kundrelationen. Om teamet gör förändringar utan att först säkerställa vad kunden vill ha finns risk för onödigt arbete och ytterligare missförstånd.
-
-<div style="break-after: page;"></div>
 
 ## Analys
 
