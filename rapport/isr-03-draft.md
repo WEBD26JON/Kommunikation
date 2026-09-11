@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kommunikation i ett webbutvecklingsprojek
+# Kommunikation i ett webbutvecklingsprojekt
 <br><br><br><br>
 **Individuell skriftlig rapport**
 <br><br><br><br>
@@ -35,6 +35,8 @@ Här är kunden sändare och teamet mottagare. Budskapet är inte tillräckligt 
 
 Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor.
 
+Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor. Detta ligger nära Julian Treasures syn på aktivt lyssnande, där lyssnaren behöver vara närvarande och försöka förstå vad den andra personen säger (Treasure, 2011).
+
 <div style="break-after: page;"></div>
 
 ### FIRO och otydliga roller
@@ -43,7 +45,7 @@ FIRO-modellen beskriver tre faser i en grupps utveckling: Tillhöra, Rollsöknin
 
 Jag tolkar teamet i caset som att det åtminstone delvis befinner sig i rollsökningsfasen, eller tillfälligt hamnar tillbaka där på grund av tidspressen. Medlemmarna har ingen gemensam bild av vem som ansvarar för vad. Det tydligaste exemplet är meddelandet ”Kan någon fixa startsidan?”, där två personer uppfattar uppgiften som riktad till sig.
 
-Modellen visar att problemet inte är tekniskt utan handlar om roller. Om ansvar och mandat *(rätten att fatta beslut och agera för gruppens räkning)* görs tydliga blir det lättare för gruppen att arbeta mot samma mål och att utvecklas mot samhörighetsfasen. Mandatfrågan hör direkt ihop med rollsökningsfasen, som enligt Schutz handlar om kontroll och inflytande.
+Modellen visar att problemet inte är tekniskt utan handlar om roller. Om ansvar och mandat *(rätten att fatta beslut och agera för gruppens räkning)* tydliggörs blir det lättare för gruppen att arbeta mot samma mål och utvecklas mot samhörighetsfasen. Mandatfrågan hör direkt ihop med rollsökningsfasen, som enligt Schutz handlar om kontroll och inflytande.
 
 ### Kommunikationsstil och kundmöten
 
@@ -53,7 +55,7 @@ Det är särskilt relevant här, eftersom kunden vill ha webbplatsen klar till f
 
 Detta kan också kopplas till Atlassians artikel *9 immediate ways to improve communication in the workplace*. Där betonas att man bör förstå situationen innan man ger feedback, erbjuder en åsikt eller föreslår en lösning. I caset behöver teamet därför först förstå vad kunden menar med ”modern”, ”enkel” och ”premium” innan de bestämmer vilka förändringar som ska göras (Atlassian, 2022).
 
-Stilen påverkar därför affären direkt. Det som avgör om ett kundmöte leder till en lönsam affär är sällan om man säger ja, utan om kunden kan lita på att beskeden håller.
+Kommunikationsstilen påverkar därför kundrelationen och affären direkt. Det som avgör om ett kundmöte leder till en lönsam affär är sällan om man säger ja, utan om kunden kan lita på att beskeden håller.
 
 ### Anpassning till mottagare, kultur och kanal
 
@@ -87,7 +89,7 @@ Tre saker vill jag ta med mig konkret. Det första är att kvittera innan jag b�
 
 Under kursen höll jag en presentation där jag spelade projektledare och presenterade en MVP för en kund (fastighetsbolag). Jag byggde upp den efter ethos, logos och pathos, och det som gjorde störst skillnad var att börja i kundens nuläge i stället för i lösningen. Det är samma sak som saknas i caset: teamet börjar i åtgärder innan de har förstått problemet.
 
-Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen.  Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det caset visar är att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
+Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen. Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det här caset visar att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
 
 ### Skriftlig återkoppling till kunden
 
@@ -98,7 +100,7 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 ><br> Ni hittar dem här: [länk].
 <br>Vi rekommenderar att ni särskilt tittar på följande två:<br><br>[Exempel 1], [Exempel 2]<br>
 <br>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.<br><br>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.<br>
-<br>Vänliga hälsningar, Alexander Gabrielsten [Företagsnamn] – webbutvecklare
+<br>Vänliga hälsningar,<br> Alexander Gabrielsten<br> [Företagsnamn] – webbutvecklare
 
 <div style="break-after: page;"></div>
 
@@ -122,7 +124,7 @@ Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan 
 
 - Kursmaterial, Lektion 1: Shannon & Weavers kommunikationsmodell, aktivt lyssnande.
 - Kursmaterial, Lektion 2: FIRO-modellen (Will Schutz).
-- Kursmaterial, Lektion 3: kommunikationsstiler, assertiv kommunikation, samma budskap till olika mottagare.
+- Kursmaterial, Lektion 3: kommunikationsstilar, assertiv kommunikation, samma budskap till olika mottagare.
 - Kursmaterial, Lektion 5: retorik och presentationsteknik. Duarte, N., The secret structure of great talks, TEDxEast 2011. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
 - Atlassian. (2022, 13 augusti). *9 immediate ways to improve communication in the workplace*. https://www.atlassian.com/blog/teamwork/how-you-can-improve-communication-in-the-workplace
 - Kursmaterial, Lektion 5: Storie, J., 7 Storytelling Tips for Better Business Presentations, Duarte, 2026. https://www.duarte.com/blog/tips-for-crafting-a-storytelling-presentation/
