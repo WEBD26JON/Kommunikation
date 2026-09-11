@@ -74,8 +74,8 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 >
 >Vi rekommenderar att ni särskilt tittar på följande tre exempel:
 >
->[Exempel 1]
->[Exempel 2]
+>[Exempel 1],
+>[Exempel 2],
 >[Exempel 3]
 >
 >Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.
@@ -89,8 +89,6 @@ Sedan bör arbetsuppgifterna fördelas tydligt. I stället för ”Kan någon fi
 **Motivering.** Mottagaren har begränsad teknisk kunskap, därför följer meddelandet kundens tre frågor: vad vi gör, varför och när. Språket är utan fackord. Sammanfattningen i början är en återkoppling som visar om vi har uppfattat kunden rätt. Tonen är assertiv: jag lovar inte hela leveransen till fredag, men ger ett realistiskt alternativ och låter kunden bestämma.
 
 ## Reflektion
-
-*(Skriv om detta avsnitt med egna exempel – det väger tyngst för VG.)*
 
 Det jag tar med mig från caset är att många problem som ser tekniska ut egentligen uppstår tidigare, i kommunikationen. Ingen i caset gör fel rent hantverksmässigt, och ändå går timmar förlorade. Som utvecklare är det lätt att tänka att kunddialogen är projektledarens ansvar, men den som utför arbetet behöver också förstå uppdraget innan hen börjar.
 
