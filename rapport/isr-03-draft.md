@@ -10,8 +10,7 @@ Alexander Gabrielsten, Grupp1-WEBD26JON
 Datum: 2026-09-11
 
 </div>
-
-<div style="page-break-after: always;"></div>
+<br><br>
 
 ## Inledning
 
@@ -25,6 +24,8 @@ Den interna kommunikationen förstärker problemet. När projektledaren skriver 
 
 Konsekvenserna är onödigt arbete, otydlig arbetsfördelning och risk för en försämrad kundrelation. Om teamet gör förändringar utan att först säkerställa vad kunden menar finns risk för ytterligare missförstånd.
 
+<div style="page-break-after: always;"></div>
+
 ## Analys
 
 ### Kommunikation, brus och återkoppling
@@ -33,11 +34,7 @@ Shannon och Weavers kommunikationsmodell kan användas för att förstå varför
 
 Här är kunden sändare och teamet mottagare. Budskapet är inte tillräckligt konkret, och orden ”modern” och ”premium” betyder olika saker för olika personer. För en UX-designer kan ”premium” handla om visuellt uttryck, medan en utvecklare tänker mer på funktion eller teknisk kvalitet. Detta är ett slags brus. Problemet är inte att någon uttryckt sig fel, utan att mottagarna själva fyller i det som inte har sagts. Aktivt lyssnande innebär att ställa följdfrågor och sammanfatta det andra har sagt med egna ord, i stället för att direkt börja formulera en lösning. (Kursmaterial, Lektion 1)
 
-Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor.
-
 Eftersom teamet inte återkopplar och kontrollerar sin förståelse upptäcks skillnaderna först efteråt. Ett bättre sätt hade varit att sammanfatta kundens önskemål redan under mötet och ställa konkreta följdfrågor. Detta ligger nära Julian Treasures syn på aktivt lyssnande, där lyssnaren behöver vara närvarande och försöka förstå vad den andra personen säger (Treasure, 2011).
-
-<div style="break-after: page;"></div>
 
 ### FIRO och otydliga roller
 
@@ -91,6 +88,8 @@ Under kursen höll jag en presentation där jag spelade projektledare och presen
 
 Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och mer om förutsägbarhet. Kunden köper inte bara en webbplats, utan en relation där beskeden håller. Ett snabbt ja till fredag gör kunden nöjd på mötet, men missnöjd på fredagen. Samtidigt tror jag inte att mer kommunikation alltid är bättre. Det här caset visar att det handlar om precision: rätt fråga, i rätt kanal, till en namngiven mottagare.
 
+<div style="break-after: page;"></div>
+
 ### Skriftlig återkoppling till kunden
 
 >**Ämne: Sammanfattning av era önskemål och nästa steg**<br><br>
@@ -102,9 +101,9 @@ Affärsmannamässigt bemötande handlar enligt min mening mindre om artighet och
 <br>Välj gärna det exempel som ligger närmast den känsla ni vill att webbplatsen ska förmedla. När ni har valt ett alternativ kan vi utgå från det och anpassa innehåll, bilder och färger efter era önskemål.<br><br>Om ni återkommer med vilket alternativ ni föredrar kan vi arbeta vidare utifrån det och presentera ett första färdigt förslag på onsdag. Därefter kan vi tillsammans bestämma vilka justeringar som ska prioriteras inför fredag.<br>
 <br>Vänliga hälsningar,<br> Alexander Gabrielsten<br> [Företagsnamn] – webbutvecklare
 
-<div style="break-after: page;"></div>
-
 ### Motivering
+
+<div style="font-size: 0.85em; line-height: 1.25;">
 
 Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan fackord.
 
@@ -116,7 +115,9 @@ Kunden har begränsad teknisk kunskap. Därför används ett enkelt språk utan 
 
 **Assertiv kommunikation:** Vi presenterar ett konkret arbetssätt och en realistisk tidsplan utan att lova att hela webbplatsen blir färdig till fredag.
 
-**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag. 
+**Nästa steg:** Formuleringen ”om ni återkommer” visar att kunden behöver välja ett alternativ innan teamet börjar arbeta vidare. Samtidigt får kunden möjlighet att påverka vilka justeringar som ska prioriteras inför fredag.
+
+</div>
 
 <div style="break-after: page;"></div>
 
