@@ -6,7 +6,7 @@
 <br><br><br><br>
 
 Kurs: Kommunikation (15 YHp)  
-Alexander Gabrielsten, Grupp1-WEBD26JON  
+Alexander ........, Grupp1-WEBD26JON  
 Datum: 2026-09-11
 
 </div>
