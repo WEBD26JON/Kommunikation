@@ -31,5 +31,5 @@
 > 
 > **Min målgrupp är företagets VD och projektledare. Jag ska alltså presentera ett möjligt digitalt stöd som kan minska risken för fel, avvikelser och viten i det dagliga arbetet.”**
 
-[Presentation](https://webd26jon.github.io/Kommunikation/)
+[Presentation](https://webd26jon.github.io/Kommunikation/presentation/index.html)
 
