@@ -11,3 +11,5 @@ Kursen ger grundläggande kunskaper inom kommunikation med fokus på webbutveckl
 - [9 ways to improve comm skills](https://github.com/WEBD26JON/Kommunikation/blob/main/reading/_9ways2improve-comm-skills.md)
 
 [Presentation 2026-09-09](https://github.com/WEBD26JON/Kommunikation/tree/main/presentation)
+
+Kursen avslutad.
